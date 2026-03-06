@@ -878,6 +878,16 @@ body {
   letter-spacing: 0.1em;
 }
 
+.footer-disclaimer {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 0.7rem;
+  line-height: 1.6;
+  color: rgba(150, 150, 170, 0.6);
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0.5rem 1rem;
+}
+
 /* ============================================
    SCROLLBAR
    ============================================ */
