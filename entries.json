@@ -542,7 +542,7 @@
       "妖怪",
       "祭り"
     ],
-    "image_path": ""
+    "image_path": "images/odaiba-hybrid-umibozu.png"
   },
   {
     "id": "asakusa-koi-courier",
@@ -567,7 +567,7 @@
       "物流",
       "和柄"
     ],
-    "image_path": ""
+    "image_path": "images/asakusa-koi-courier.png"
   },
   {
     "id": "shinjuku-oni-phantom",
@@ -592,7 +592,7 @@
       "鬼",
       "都市伝説"
     ],
-    "image_path": ""
+    "image_path": "images/shinjuku-oni-phantom.png"
   },
   {
     "id": "roppongi-tengu-hawk",
@@ -617,7 +617,7 @@
       "ドローン",
       "都市伝説"
     ],
-    "image_path": ""
+    "image_path": "images/roppongi-tengu-hawk.png"
   },
   {
     "id": "ikebukuro-bakeneko-hacker",
@@ -642,7 +642,7 @@
       "ハッカー",
       "都市伝説"
     ],
-    "image_path": ""
+    "image_path": "images/ikebukuro-bakeneko-hacker.png"
   },
   {
     "id": "shimokitazawa-kitsune-conductor",
@@ -667,7 +667,7 @@
       "鉄道",
       "案内"
     ],
-    "image_path": ""
+    "image_path": "images/shimokitazawa-kitsune-conductor.png"
   },
   {
     "id": "shibuya-holo-matsuri",
@@ -715,7 +715,7 @@
       "サステナブル",
       "祭り"
     ],
-    "image_path": ""
+    "image_path": "images/asakusa-cyber-lanterns.png"
   },
   {
     "id": "akiba-quantum-club",
@@ -739,7 +739,7 @@
       "サイバーパンク",
       "交流"
     ],
-    "image_path": ""
+    "image_path": "images/akiba-quantum-club.png"
   },
   {
     "id": "roppongi-ai-noh-theater",
@@ -763,7 +763,7 @@
       "伝統芸能",
       "AR"
     ],
-    "image_path": ""
+    "image_path": "images/roppongi-ai-noh-theater.png"
   },
   {
     "id": "kichijoji-eco-kissa",
@@ -787,7 +787,7 @@
       "AR",
       "コミュニティ"
     ],
-    "image_path": ""
+    "image_path": "images/kichijoji-eco-kissa.png"
   },
   {
     "id": "shimo-kitazawa-bio-art-market",
@@ -811,7 +811,7 @@
       "クラフト",
       "AR"
     ],
-    "image_path": ""
+    "image_path": "images/shimo-kitazawa-bio-art-market.png"
   },
   {
     "id": "takadanobaba-memory-market",
@@ -835,7 +835,7 @@
       "フリマ",
       "データ文化"
     ],
-    "image_path": ""
+    "image_path": "images/takadanobaba-memory-market.png"
   },
   {
     "id": "shibuya-hyperloop-express",
@@ -885,7 +885,7 @@
       "サイバーパンク",
       "空中交通"
     ],
-    "image_path": ""
+    "image_path": "images/akihabara-drone-taxi-grid.png"
   },
   {
     "id": "asakusa-bio-tram-line",
@@ -910,7 +910,7 @@
       "環境共生",
       "伝統"
     ],
-    "image_path": ""
+    "image_path": "images/asakusa-bio-tram-line.png"
   },
   {
     "id": "odaiba-ar-ferry-network",
@@ -935,7 +935,7 @@
       "観光",
       "伝統"
     ],
-    "image_path": ""
+    "image_path": "images/odaiba-ar-ferry-network.png"
   },
   {
     "id": "ikebukuro-neuro-subway-system",
@@ -960,7 +960,7 @@
       "地下鉄",
       "都市進化"
     ],
-    "image_path": ""
+    "image_path": "images/ikebukuro-neuro-subway-system.png"
   },
   {
     "id": "umami-bio-oden",
@@ -989,7 +989,7 @@
       "環境共生",
       "浅草"
     ],
-    "image_path": ""
+    "image_path": "images/umami-bio-oden.png"
   },
   {
     "id": "shibuya-quantum-mochi",
@@ -1017,7 +1017,7 @@
       "渋谷",
       "ナノテク"
     ],
-    "image_path": ""
+    "image_path": "images/shibuya-quantum-mochi.png"
   },
   {
     "id": "akihabara-neo-temaki",
@@ -1045,7 +1045,7 @@
       "秋葉原",
       "サイバーパンク"
     ],
-    "image_path": ""
+    "image_path": "images/akihabara-neo-temaki.png"
   },
   {
     "id": "roppongi-microgreens-yakitori",
@@ -1073,7 +1073,7 @@
       "六本木",
       "屋上ガーデン"
     ],
-    "image_path": ""
+    "image_path": "images/roppongi-microgreens-yakitori.png"
   },
   {
     "id": "meguro-ferment-ramen",
@@ -1102,7 +1102,7 @@
       "目黒",
       "健康志向"
     ],
-    "image_path": ""
+    "image_path": "images/meguro-ferment-ramen.png"
   },
   {
     "id": "shibuya-kinetic-tower",
@@ -1127,7 +1127,7 @@
       "AI建築",
       "日本文化"
     ],
-    "image_path": ""
+    "image_path": "images/shibuya-kinetic-tower.png"
   },
   {
     "id": "akihabara-nanotech-market",
@@ -1152,7 +1152,7 @@
       "伝統市場",
       "AR/VR"
     ],
-    "image_path": ""
+    "image_path": "images/akihabara-nanotech-market.png"
   },
   {
     "id": "asakusa-temple-hub",
@@ -1177,7 +1177,7 @@
       "都市共生",
       "AR体験"
     ],
-    "image_path": ""
+    "image_path": "images/asakusa-temple-hub.png"
   },
   {
     "id": "odaiba-floating-plaza",
@@ -1202,7 +1202,7 @@
       "水運文化",
       "AR教育"
     ],
-    "image_path": ""
+    "image_path": "images/odaiba-floating-plaza.png"
   },
   {
     "id": "roppongi-quantum-arts-center",
@@ -1227,6 +1227,6 @@
       "ポストヒューマン",
       "AIアート"
     ],
-    "image_path": ""
+    "image_path": "images/roppongi-quantum-arts-center.png"
   }
 ]
