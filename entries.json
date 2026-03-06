@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "shibuya-neon-divide",
+    "title_ja": "渋谷ネオンダイブ",
+    "title_en": "Shibuya Neon Divide",
+    "category": "district",
+    "summary_ja": "AI都市管理が進む未来型複合都市区。",
+    "body_ja": "渋谷ネオンダイブは、2050年に東京の中心として進化を遂げた。かつての若者文化の聖地であった渋谷は、AI主導の都市運営とスマートインフラで再構築され、名物のスクランブル交差点も拡張されたAR空間と融合。かつてのクラブカルチャーと伝統的な祭りがVR技術によって共存し、夜にはネオンとホログラムが空を彩る。サステナブルなエネルギー利用と、生体認証によるセキュリティも完備。また、アジア各地から移住者を積極的に受け入れ、多文化共生が進む。従来の渋谷の混沌さを残しつつも、あらゆる世代と文化が邂逅する未来都市となっている。",
+    "body_en": "Shibuya Neon Divide, having evolved as Tokyo’s core in 2050, is a fusion of AI-led urban management and smart infrastructure. The iconic scramble crossing is now overlaid with multilingual AR interfaces connecting global communities. Traditional club culture coexists with festivals via VR, while neon and holograms illuminate the skyline at night. Sustainable energy powers the district, and biometric security ensures safety. Active acceptance of migrants from across Asia has fostered multicultural harmony. The district preserves Shibuya’s historic dynamism, emerging as a metropolis where diverse generations and cultures converge.",
+    "specs": {
+      "population": "180,000",
+      "area_km2": 12.1,
+      "established": "2028（再編）",
+      "governance": "AI協働型市民主導委員会"
+    },
+    "image_prompt": "A cyberpunk anime style illustration of 2050 Shibuya Neon Divide. Show an expanded scramble crossing filled with diverse crowds—humans with cybernetic enhancements, holographic advertisements in multiple languages, and vibrant neon signs. AR and VR projections intertwine with traditional matsuri lanterns. Skyscrapers powered by green energy rise in the background, with rooftop gardens visible. Palette: electric blues, neon pinks, and lush greens. Atmosphere combines festive energy with high-tech ambiance. In the foreground, a multicultural group interacts with digital devices and festival wear, symbolizing tradition and innovation.",
+    "tags": [
+      "AI都市",
+      "多文化共生",
+      "サステナブル",
+      "AR/VR",
+      "若者文化"
+    ],
+    "image_path": "images/shibuya-neon-divide.png"
+  },
+  {
+    "id": "shinjuku-quantum-ward",
+    "title_ja": "新宿クォンタム区",
+    "title_en": "Shinjuku Quantum Ward",
+    "category": "district",
+    "summary_ja": "量子技術中心の情報都市区、夜景が象徴的。",
+    "body_ja": "新宿クォンタム区は、2050年の東京で量子コンピュータ産業とナノテク研究の中心地となった。旧新宿の雑多なオフィス街は、高層量子タワーと超高密度データ通信網に刷新。新宿駅地下には量子AIが自律運営する交通ハブが構築され、無人運行車両と空中ドローンが人々を24時間輸送。夜にはサイバーパンク色のネオンが街を照らし、伝統的な居酒屋がナノバーテクノロジーと融合。周辺地域との連携強化や、サイバーセキュリティ産業の発展に貢献している。AIと人が共存する新型都心として注目される。",
+    "body_en": "Shinjuku Quantum Ward is Tokyo’s 2050 center for quantum computing and nanotech innovation. Once a chaotic office area, it now features quantum towers and ultra-dense datalinks. The subterranean Shinjuku station is operated by quantum AI, orchestrating autonomous vehicles and aerial drones around the clock. At night, the district glows with cyberpunk neon, and traditional izakayas merge with nanobar technology. Enhanced collaboration with neighboring wards and the thriving cyber security industry mark Shinjuku’s social impact. It stands as a new urban center where humans and AI coexist.",
+    "specs": {
+      "population": "320,000",
+      "area_km2": 18.2,
+      "established": "2033（再編）",
+      "governance": "AI-市民合同評議会"
+    },
+    "image_prompt": "A sprawling cityscape of Shinjuku Quantum Ward in cyberpunk anime style. Show neon-lit quantum towers with visible datastreams running between them. The streets feature autonomous vehicles and floating drones over layered sidewalks. Underground, transparent elevators reveal a quantum AI-managed transit hub. Neon signs blend with traditional izakaya lanterns, nanobar interfaces glowing beneath. Color palette: sharp purples, electric blues, neon greens, and bright white contrasts. Atmosphere is lively yet controlled, symbolizing innovation and security. Diverse crowds—business people, researchers, and augmented citizens—move purposefully.",
+    "tags": [
+      "量子コンピュータ",
+      "ナノテク",
+      "サイバーパンク",
+      "AI共生",
+      "夜景"
+    ],
+    "image_path": "images/shinjuku-quantum-ward.png"
+  },
+  {
+    "id": "akihabara-cyber-bazaar",
+    "title_ja": "秋葉原サイバーバザール",
+    "title_en": "Akihabara Cyber Bazaar",
+    "category": "district",
+    "summary_ja": "サイバー技術とオタク文化の融合市場区。",
+    "body_ja": "秋葉原サイバーバザールは、電子部品市場としてのルーツを保ちつつ、2050年にはサイボーグ義肢やバーチャルアイドルAIの実演市場に進化した。店舗は全天候型アーケードに再設計され、ARメイドやロボット商人が商品説明を行う。最新のXR技術により、客は仮想空間の同人イベントにも参加できる。伝統的な手作り文化と最先端技術が共存し、世界中の技術者とオタクが集まる拠点。技術革新の先端を象徴するとともに、多世代の交流の場ともなっている。",
+    "body_en": "Akihabara Cyber Bazaar preserves its roots as an electronics market while evolving into a hub for cybernetic prosthetics and AI-powered virtual idols by 2050. Stores are redesigned in weatherproof arcades, with AR maids and robotic vendors offering demonstrations. XR technology enables visitors to join virtual dōjin events. Traditional handcrafted culture thrives alongside advanced tech, drawing engineers and otaku from around the world. Serving as a symbol of innovation, Akihabara remains a vibrant zone for intergenerational exchange and creativity.",
+    "specs": {
+      "population": "55,000",
+      "area_km2": 2.3,
+      "established": "1949（現代化: 2040）",
+      "governance": "クリエイター協議会"
+    },
+    "image_prompt": "A vibrant anime cyberpunk scene of Akihabara Cyber Bazaar in 2050. Arcades sheltered by transparent tech canopies, lined with holographic signs and AR maids assisting customers. Crowds include tech-savvy youth, engineers with robotic limbs, and traditional cosplayers. Storefronts showcase cybernetic gadgets beside traditional crafts. XR-based virtual event spaces float above the real streets. Color palette: neon yellows, magentas, electric blues, and soft pastels. Atmosphere is energetic, playful, and futuristic. Cables, drones, and LED-lit vending machines enhance the tech market ambiance.",
+    "tags": [
+      "オタク文化",
+      "AR/XR",
+      "サイボーグ",
+      "バーチャルアイドル",
+      "技術革新"
+    ],
+    "image_path": "images/akihabara-cyber-bazaar.png"
+  },
+  {
+    "id": "asakusa-echo-grounds",
+    "title_ja": "浅草エコグラウンド",
+    "title_en": "Asakusa Eco Grounds",
+    "category": "district",
+    "summary_ja": "伝統文化と環境共生の融合モデル地区。",
+    "body_ja": "浅草エコグラウンドは、2050年の東京における伝統と自然共生の象徴区域である。浅草寺を中心に、ソーラーパネル瓦やバイオ緑化が施された和風建築が立ち並び、隅田川では自律運行のクリーンエネルギー舟が往来する。祭りはARで拡張され、過去と未来が重なる情景が演出される。エコ観光や伝統工芸の継承施設も新設。住民主体の環境マネジメントにより、都市生活とサステナビリティの調和が実現、国内外から注目を集める地区である。",
+    "body_en": "Asakusa Eco Grounds represents harmony between tradition and nature in Tokyo 2050. Centered on Sensoji Temple, eco-friendly Japanese-style buildings feature solar tile roofs and bio-greening. Autonomous, clean-energy boats ply the Sumida River. Festivals are augmented by AR, blending history with the future. New facilities support eco-tourism and traditional crafts. Community-led environmental management achieves balance between urban living and sustainability, making Asakusa a model district for visitors worldwide.",
+    "specs": {
+      "population": "43,000",
+      "area_km2": 5.1,
+      "established": "628（現代化: 2042）",
+      "governance": "住民主導エコ評議会"
+    },
+    "image_prompt": "A cyberpunk anime vision of Asakusa Eco Grounds in 2050. Traditional temple architecture with rooftops embedded with solar panels, and facades covered in vertical gardens. The Sumida River hosts self-driving, solar-powered boats, with floating AR lanterns illuminating the water. Locals and visitors in yukatas use AR devices that overlay festival scenes onto reality. Color palette: warm ambers, green foliage, soft blues, and gold accents. Atmosphere feels serene, blending old Edo charm with advanced eco-technology. In the background, low-rise eco-homes and craft centers are visible.",
+    "tags": [
+      "伝統文化",
+      "エコロジー",
+      "バイオ緑化",
+      "祭り",
+      "クリーンエネルギー"
+    ],
+    "image_path": "images/asakusa-echo-grounds.png"
+  },
+  {
+    "id": "odaiba-holo-bay",
+    "title_ja": "お台場ホロベイ",
+    "title_en": "Odaiba Holo Bay",
+    "category": "district",
+    "summary_ja": "AR/VRと海洋都市開発の最先端複合区。",
+    "body_ja": "お台場ホロベイは、東京湾上に拡張された複合都市型エンターテインメント区。2050年にはホログラム都市設計が導入され、海岸線の大半が高機能AR/VR空間と共存している。観光客はVRスフィアから仮想都市を体験でき、旧フジテレビ球体やレインボーブリッジにはARプロジェクションマッピングが常設。水素エネルギーで動くマリンモビリティや、AIによる環境保全システムも特徴。国際的なハイテクイベントが頻繁に開催され、東京の未来象徴区としての地位を確立している。",
+    "body_en": "Odaiba Holo Bay, expanded over Tokyo Bay, is a futuristic entertainment and residential district in 2050. The area features holographic cityscapes, with much of the waterfront integrated with AR/VR environments. Tourists experience virtual cities via VR spheres, while iconic landmarks like the Fuji TV sphere and Rainbow Bridge host permanent AR projection mappings. Hydrogen-powered marine mobility and AI-managed environmental systems define the district. Odaiba is renowned for hosting international high-tech events, symbolizing Tokyo's innovative future.",
+    "specs": {
+      "population": "93,000",
+      "area_km2": 10.2,
+      "established": "1996（現代化: 2047）",
+      "governance": "都市クリエイターコンソーシアム"
+    },
+    "image_prompt": "A futuristic anime illustration of Odaiba Holo Bay in 2050. Massive AR/VR spheres and domes float above the vibrant waterfront, with holographic dolphins and digital fireworks over the bay. The Rainbow Bridge is adorned with shifting AR patterns. Hydrogen-fueled marine vehicles glide across turquoise waters alongside eco-islands. Tourists in smart wearables interact with immersive displays. Palette: holographic blues, magentas, and iridescent shimmers. The sky reflects both the city and digital overlays, creating a surreal, festive atmosphere. Event stages and digital art installations fill the background.",
+    "tags": [
+      "AR/VR",
+      "海洋都市",
+      "エンタメ",
+      "水素エネルギー",
+      "国際イベント"
+    ],
+    "image_path": "images/odaiba-holo-bay.png"
+  },
+  {
+    "id": "roppongi-synapse-core",
+    "title_ja": "六本木シナプスコア",
+    "title_en": "Roppongi Synapse Core",
+    "category": "district",
+    "summary_ja": "ナイトカルチャーとバイオアートが交差する先端区。",
+    "body_ja": "六本木シナプスコアは、2050年の東京文化芸術の中枢。旧クラブ街はバイオイルミネーションとニューロAIギャラリーで再生され、夜毎に生体発光アートが街を彩る。国際色豊かなレストランやエンターテイメント施設には脳波インターフェース体験が導入され、来訪者は自身の感情データで空間を変容させることができる。アートと技術、グローバル企業と伝統工芸が交差し、夜型社会の新たな実験場として常に革新を続けている。他地区の先端技術とも連携が強い。",
+    "body_en": "Roppongi Synapse Core is Tokyo’s 2050 hub for arts and nightlife. The former club scene is revived through bioillumination and neuro-AI galleries, with streets glowing in bioluminescent art nightly. International restaurants and entertainment venues utilize brainwave interfaces, allowing visitors to shape spaces with their emotions. Merging art, tech, global enterprise, and traditional crafts, Roppongi stands as a perpetual experiment in nocturnal society. Strong collaborations with neighboring tech districts fuel ongoing innovation.",
+    "specs": {
+      "population": "65,000",
+      "area_km2": 7.4,
+      "established": "1938（現代化: 2045）",
+      "governance": "カルチャー企業連合"
+    },
+    "image_prompt": "A cyberpunk anime scene of Roppongi Synapse Core at night. Streets are illuminated by bioluminescent bioart and shifting color installations. Neuro-AI galleries have facades that morph with the moods of passersby, whose emotions are visualized by ambient light. International crowds mingle in open-air spaces, with brainwave headsets and smart tattoos. The skyline features a mix of sleek towers and traditional craftwork. Color palette: glowing blues, purples, neon greens, and gold. The atmosphere is dynamic, artistic, and immersive, reflecting both creativity and technology.",
+    "tags": [
+      "ナイトライフ",
+      "バイオアート",
+      "ニューロAI",
+      "国際交流",
+      "アート"
+    ],
+    "image_path": "images/roppongi-synapse-core.png"
+  },
+  {
+    "id": "ikebukuro-arc-biorealm",
+    "title_ja": "池袋アークバイオリウム",
+    "title_en": "Ikebukuro Arc Biorealm",
+    "category": "district",
+    "summary_ja": "都市農業とバイオテクノロジーの融合エリア。",
+    "body_ja": "池袋アークバイオリウムは、都市型農業施設とバイオ多様性保存区を兼ね備える新生池袋。サンシャインシティは、バイオファームの温室タワーに変貌し、食料自給と緑地保全の拠点となった。自律型ドローンとAIアグリシステムにより食物が生産され、その一部は地域住民や近隣区とシェアされる。伝統の盆栽や日本庭園もバイオテクで保護される。都市生活者と自然の共生を体現し、多様な世代が共に働くコミュニティ都市となった。",
+    "body_en": "Ikebukuro Arc Biorealm combines urban agriculture with biodiversity conservation in a reborn Ikebukuro. Sunshine City is now a greenhouse tower and biofarm, supporting local food production and green spaces. Autonomous drones and AI agri-systems manage crops, shared with residents and neighboring districts. Traditional bonsai and Japanese gardens are preserved through biotechnology. The area exemplifies urban-nature symbiosis and multi-generational collaboration, serving as a community city where people and nature coexist.",
+    "specs": {
+      "population": "135,000",
+      "area_km2": 9.8,
+      "established": "1963（現代化: 2043）",
+      "governance": "アグリ市民協同組合"
+    },
+    "image_prompt": "An anime cyberpunk vision of Ikebukuro Arc Biorealm in 2050. A towering greenhouse complex with lush vertical farms rises in place of Sunshine City. Automated drones tend to crops, while residents harvest vegetables in rooftop gardens below. Biospheres and high-tech bonsai parks dot the landscape. AI agri-terminals provide data and guidance to multi-generational workers. Palette: verdant greens, soft whites, sunny golds, and electronic cobalts. The atmosphere is lively, communal, and hopeful, blending high-tech food production with traditional horticulture.",
+    "tags": [
+      "都市農業",
+      "バイオテク",
+      "緑地",
+      "コミュニティ",
+      "食料自給"
+    ],
+    "image_path": "images/ikebukuro-arc-biorealm.png"
+  },
+  {
+    "id": "shimokitazawa-micro-grid",
+    "title_ja": "下北沢マイクログリッド",
+    "title_en": "Shimokitazawa Micro Grid",
+    "category": "district",
+    "summary_ja": "分散型エネルギーとDIY文化の先進区。",
+    "body_ja": "下北沢マイクログリッドは、分散型エネルギー社会とクリエイター文化の発信地。かつてのライブハウス街は自家発電モジュールとエネルギーシェアリングネットワークにより再構築され、住民とアーティストが協力してエネルギーの自給自足を実現。シェア工房やDIYスペースが多く、地産地消のカルチャーイベントが盛ん。街の至る所にARアートが展示され、伝統的なカフェとサイバーテックが混在。サステナブルで独自性の強い都市モデルとして全国に影響を与えている。",
+    "body_en": "Shimokitazawa Micro Grid is a hub for distributed energy and creator culture. The former live house district now features self-generated energy modules and a sharing network, enabling residents and artists to achieve energy independence. Shared workshops and DIY spaces abound, supporting local culture events. AR art is displayed throughout the city, blending traditional cafes with cybertech. The district stands as a sustainable and uniquely urban model, influencing communities across Japan.",
+    "specs": {
+      "population": "29,000",
+      "area_km2": 2.7,
+      "established": "1933（現代化: 2044）",
+      "governance": "エネルギー共同体運営委員会"
+    },
+    "image_prompt": "A cyberpunk anime illustration of Shimokitazawa Micro Grid. Small streets lined with solar panels, wind microgenerators, and creative workshops. Residents and artists collaborate in open-air DIY spaces, surrounded by AR art projections. Cafes serve both traditional sweets and tech-infused snacks under energy-saving LED lamps. The power grid is represented by glowing, shared conduits in the ground. Color palette: earthy browns, muted teals, splashes of neon orange and green. The atmosphere is communal, inventive, and sustainable, merging grassroots creativity with futuristic energy tech.",
+    "tags": [
+      "エネルギー",
+      "DIY",
+      "クリエイター",
+      "ARアート",
+      "サステナブル"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "kichijoji-spirit-haven",
+    "title_ja": "吉祥寺スピリットヘイブン",
+    "title_en": "Kichijoji Spirit Haven",
+    "category": "district",
+    "summary_ja": "精神福祉と伝統が共存するウェルビーイング都市。",
+    "body_ja": "吉祥寺スピリットヘイブンは、都市型ウェルビーイングと伝統文化が融合する東京西部の先進区。井の頭公園の自然が拡張され、伝統的な禅や茶道にAIカウンセリングとナノセンサーヘルスケアが加わり、多世代が心身を整える場が整備された。音楽とアートの街として、AR音楽祭や現代能の公演が日常的に行われる。幸福度指標に基づく行政や、市民参加型の精神福祉プロジェクトも特徴。都市生活者の心のサステナビリティを重視する新たなモデル都市。",
+    "body_en": "Kichijoji Spirit Haven is a wellbeing-oriented, tradition-infused urban district in western Tokyo. Inokashira Park’s green spaces have been expanded. AI counseling and nanosensor-based healthcare complement Zen and tea ceremonies, offering cross-generational mental and physical wellness. Recognized for music and arts, AR music festivals and contemporary Noh performances occur regularly. Governance is based on happiness indexes, with citizen-driven mental wellness projects. This district exemplifies urban sustainability for the mind and spirit.",
+    "specs": {
+      "population": "68,000",
+      "area_km2": 10.4,
+      "established": "1934（現代化: 2048）",
+      "governance": "市民精神福祉委員会"
+    },
+    "image_prompt": "A serene anime cyberpunk depiction of Kichijoji Spirit Haven. Inokashira Park is lush and central, with AI-guided Zen gardens and modern tea houses using soft nanotech lighting. Families and elders meditate next to digital screens offering biofeedback. AR music festivals energize open lawns, while a contemporary Noh theater blends traditional architecture with holographic effects. Palette: soothing greens, gentle golds, serene whites, and accents of neon magenta. The atmosphere is peaceful, with an undertone of technological harmony.",
+    "tags": [
+      "ウェルビーイング",
+      "精神福祉",
+      "伝統文化",
+      "AR音楽",
+      "AIヘルスケア"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "koenji-anarch-commons",
+    "title_ja": "高円寺アナークコモンズ",
+    "title_en": "Koenji Anarch Commons",
+    "category": "district",
+    "summary_ja": "自治とアンダーグラウンド文化が息づく共創区。",
+    "body_ja": "高円寺アナークコモンズは、住民自治とアンダーグラウンド文化が共存する自律区として2050年に再生。リサイクル建築と廃材アートが街を飾り、旧パンクロック・劇場文化が拡張現実で日々再生される。カフェやライブハウスはクリプト通貨で決済が可能。エネルギー自給やコミュニティ農園による独立性も強い。サブカルチャーの自由な発信と共に、他地区の新技術を批評的に受け入れる実験場として東京の多様性に寄与する存在。",
+    "body_en": "Koenji Anarch Commons, regenerated as a self-governed district in 2050, merges resident autonomy with underground culture. Recycled architecture and scrap art set the tone, while punk rock and theater are daily revived through AR. Cafes and live houses accept crypto-payments, and energy and food cooperatives reinforce independence. Koenji’s free-spirited subculture is a testing ground for critical engagement with innovations from other districts, contributing to Tokyo’s pluralism.",
+    "specs": {
+      "population": "31,000",
+      "area_km2": 4.7,
+      "established": "1926（現代化: 2046）",
+      "governance": "リバース自治ネットワーク"
+    },
+    "image_prompt": "A cyberpunk anime vision of Koenji Anarch Commons. Streets feature recycled, patchwork architecture adorned with bold graffiti and scrap art sculptures. AR overlays revive classic punk concerts and street theater. Diverse crowds occupy cafes and livehouses accepting crypto-pay, with rooftop gardens visible. Energy-sharing solar panels and communal farms line the alleys. Palette: vivid reds, blacks, metallic grays, and splashes of neon green. The atmosphere is rebellious yet communal, highlighting both the DIY spirit and digital innovation.",
+    "tags": [
+      "自治",
+      "サブカルチャー",
+      "ARアート",
+      "リサイクル",
+      "クリプト通貨"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "shibuya-quantum-hive",
+    "title_ja": "渋谷量子ハイブ",
+    "title_en": "Shibuya Quantum Hive",
+    "category": "technology",
+    "summary_ja": "渋谷の地下に構築された次世代量子計算ネットワーク。",
+    "body_ja": "2050年、渋谷の地下に設置された『量子ハイブ』は、かつてのITベンチャー街が進化した形であり、都市全体のAI・IoTを高速処理する量子計算ネットワーク中枢となった。初期は地元スタートアップと大学の共同研究施設だったが、徐々に都心全域の交通、エネルギー、セキュリティをコントロールする要として存在感を増した。伝統的な渋谷のスクランブル交差点の賑わいと融合するような、デジタルとリアルが交錯する新時代の象徴であり、多くの若者がここで起業や共同開発に挑戦している。",
+    "body_en": "The Shibuya Quantum Hive, installed beneath the bustling district in 2050, serves as Tokyo's core quantum computing network, driving citywide AI, IoT, mobility, and security systems. Originating as a joint project among local startups and universities, it grew into a vital infrastructure, merging the historic energy of Shibuya’s iconic crossroads with futuristic digital activity. The Hive attracts young entrepreneurs and technologists, embodying the fusion of traditional urban vibrancy and groundbreaking technology.",
+    "specs": {
+      "inventor": "渋谷未来共創連合",
+      "year_introduced": 2041,
+      "adoption_rate": "96%",
+      "risk_level": "medium"
+    },
+    "image_prompt": "A cyberpunk anime style illustration of a massive underground quantum network hub beneath Shibuya. The scene includes glowing transparent cables spanning across a dark, expansive chamber filled with holographic data streams and illuminated panels. The walls are made of high-tech materials, interspersed with graffiti reminiscent of Shibuya’s street culture. Above, the iconic Shibuya crossing is faintly visible through a glass ceiling. Neon blue and magenta tones dominate, creating a high-energy, futuristic, and slightly chaotic atmosphere.",
+    "tags": [
+      "量子コンピュータ",
+      "渋谷",
+      "AIネットワーク",
+      "都市インフラ"
+    ],
+    "image_path": "images/shibuya-quantum-hive.png"
+  },
+  {
+    "id": "asakusa-ar-lantern",
+    "title_ja": "浅草AR提灯",
+    "title_en": "Asakusa AR Lantern",
+    "category": "technology",
+    "summary_ja": "伝統的な提灯にAR技術を融合した参道案内システム。",
+    "body_ja": "浅草寺周辺では2050年、歴史ある提灯にAR投影技術が融合され、「AR提灯」として参拝客の人気を集めている。これらの提灯は観光客のスマートグラスやデバイスと連動し、江戸時代から続く祭や町の歴史、参拝フローを多言語で映像と共に案内。近隣住民や寺社関係者は伝統美を損なわないデザインで技術導入を実現し、訪日外国人にも深い文化体験を提供している。新旧融合の象徴として、地域の観光・教育への波及効果も大きい。",
+    "body_en": "In 2050, the Asakusa AR Lanterns combine traditional lantern aesthetics with advanced AR projection, guiding visitors through Senso-ji and surrounding streets. These lanterns interface with smart glasses, displaying historical stories, festival scenes, and interactive prayer guidance in multiple languages. Developed with local artisans and temple staff, the initiative preserves cultural beauty while providing immersive experiences for global travelers, making Asakusa a model of heritage and innovation.",
+    "specs": {
+      "inventor": "浅草未来観光協会",
+      "year_introduced": 2043,
+      "adoption_rate": "85%",
+      "risk_level": "low"
+    },
+    "image_prompt": "A cyberpunk anime style illustration of the Asakusa district at night, with large, traditional Japanese lanterns floating along a market street. Each lantern emits holographic projections in multiple colors, overlaying AR images of historical scenes and guiding arrows. Visitors wearing smart glasses interact with the lanterns, with the Kaminarimon Gate illuminated in the background. Warm red and gold hues mix with futuristic neon blues and greens, melding tradition and high technology in a vibrant, inviting composition.",
+    "tags": [
+      "AR",
+      "伝統文化",
+      "浅草",
+      "観光テクノロジー"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "akihabara-drone-market",
+    "title_ja": "秋葉原ドローン市",
+    "title_en": "Akihabara Drone Market",
+    "category": "technology",
+    "summary_ja": "秋葉原中央道に毎週現れる自律型ドローン屋台群。",
+    "body_ja": "秋葉原では毎週末、自律型ドローンが屋台となって中央通り上空に集結し、『ドローン市』を開催している。AIにより最適な商品ラインナップや価格設定が組まれ、来場者の好みに応じてカスタマイズされた商品を直接上空から受け取れる。初期は電子部品やガジェットが中心だったが、近年は食料品や伝統工芸品も取り扱い、秋葉原の“電気街”と“職人町”両面を生かしたユニークな販売形態となっている。交通制御や安全面も高度に自動化され、都市型マーケットの未来像を示している。",
+    "body_en": "Akihabara’s Drone Market transforms the district’s main street into a sky-high bazaar every weekend. Swarms of autonomous drones form floating stalls, selling electronics, gadgets, foods, and traditional crafts. AI algorithms adjust inventories and prices based on real-time visitor preferences, allowing customers to receive orders directly from the sky. This blend of Akihabara’s tech legacy with Tokyo’s artisan traditions, supported by advanced traffic controls, represents a futuristic vision for urban marketplaces.",
+    "specs": {
+      "inventor": "秋葉原商店会AI実行委員会",
+      "year_introduced": 2045,
+      "adoption_rate": "77%",
+      "risk_level": "medium"
+    },
+    "image_prompt": "A cyberpunk anime style illustration of Akihabara’s main street, seen at dusk, with swarms of sleek, neon-lit drones hovering overhead, forming a floating marketplace. Some drones display digital signs and interactive holograms, while others lower packages to customers on the street below. The scene includes colorful signage, crowds of people with wearable tech, and the Electric Town’s iconic buildings. Bright electric blues, purples, and yellows create a lively, futuristic, and playful atmosphere.",
+    "tags": [
+      "ドローン",
+      "秋葉原",
+      "AIマーケット",
+      "スマート流通"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "odaiba-tide-solar-farm",
+    "title_ja": "お台場潮汐・太陽ハイブリッド農園",
+    "title_en": "Odaiba Tide-Solar Hybrid Farm",
+    "category": "technology",
+    "summary_ja": "お台場の湾岸で稼働する新世代エネルギー生産プラント。",
+    "body_ja": "お台場の沿岸部には、水上で潮汐発電と太陽光発電を組み合わせた大規模な『ハイブリッド農園』が広がる。2050年の東京における脱炭素政策の要であり、昼夜に応じて潮汐または太陽エネルギーを最適変換し、都市の電力供給を支える。地元住民や観光客も見学可能なデザインで、次世代型の環境教育拠点としても機能。海上庭園と連動し、再生エネルギーと都市美観の融合を体現している。",
+    "body_en": "On Odaiba’s shores, the Tide-Solar Hybrid Farm incorporates vast floating arrays that generate clean energy by harnessing both tidal and solar power. This system, pivotal to Tokyo’s carbon-neutral policies of 2050, dynamically switches between energy sources depending on the time of day. Open to the public for education and recreation, the farm merges eco-technology with urban aesthetics, transforming the bay into a model of sustainable energy innovation.",
+    "specs": {
+      "inventor": "東京湾グリーンイノベーション連盟",
+      "year_introduced": 2040,
+      "adoption_rate": "91%",
+      "risk_level": "low"
+    },
+    "image_prompt": "A cyberpunk anime style illustration of Odaiba’s bay at sunrise, featuring a sprawling floating energy farm. Sleek panels gleam as they capture sunlight, while tidal turbines churn beneath the water’s surface. Elevated walkways and observation decks allow visitors to explore. The Rainbow Bridge and futuristic cityscape are visible in the background. The palette combines aqua blues, emerald greens, and soft golds, creating an optimistic, high-tech ecological vision.",
+    "tags": [
+      "クリーンエネルギー",
+      "お台場",
+      "再生可能エネルギー",
+      "都市農園"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "shinjuku-holo-yokocho",
+    "title_ja": "新宿ホロ横丁",
+    "title_en": "Shinjuku Holo-Yokocho",
+    "category": "technology",
+    "summary_ja": "新宿の小路に誕生したAR/VR融合型屋台街。",
+    "body_ja": "新宿の一角には、かつてのゴールデン街を再現しつつ、最新のAR/VR技術を駆使した『ホロ横丁』が賑わう。来訪者はリアルな居酒屋や飲食店を楽しみつつ、ホログラムによる自分好みの空間やバーチャル店主との会話も可能。失われつつあった昭和情緒とサイバーパンクな未来感が融合し、多様な年齢層や外国人に支持されている。街の歴史と最先端技術が共存する都市の文化遺産として定着した。",
+    "body_en": "Deep in Shinjuku, the Holo-Yokocho street recreates the Showa-era alleyways using immersive AR and VR tech. Visitors enjoy authentic izakaya fare alongside customizable holographic décors and virtual proprietors. This fusion of nostalgic atmosphere with cyberpunk innovation draws diverse locals and tourists, preserving local history within futuristic entertainment. Holo-Yokocho has become a cultural landmark blending Tokyo’s past and technological present.",
+    "specs": {
+      "inventor": "新宿都市文化再生機構",
+      "year_introduced": 2046,
+      "adoption_rate": "73%",
+      "risk_level": "medium"
+    },
+    "image_prompt": "A cyberpunk anime style illustration of a bustling Shinjuku alley at night, lined with small izakaya booths. Neon-lit holographic signs and AR projections blend with retro lanterns and wooden facades. Patrons sit at animated, virtual bars, conversing with digital hosts. The atmosphere is lively, mixing warm oranges and deep blues with vivid pink and green holograms, evoking both Showa-era nostalgia and futuristic energy.",
+    "tags": [
+      "AR/VR",
+      "新宿",
+      "飲食テクノロジー",
+      "都市文化"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "ikebukuro-bio-sakura",
+    "title_ja": "池袋バイオ桜",
+    "title_en": "Ikebukuro Bio-Sakura",
+    "category": "technology",
+    "summary_ja": "遺伝子編集で生まれた四季咲き耐環境型桜並木。",
+    "body_ja": "池袋西口公園周辺には、2050年導入の『バイオ桜』が四季を通じて咲き誇る。遺伝子編集技術により高い耐環境性を持ち、ヒートアイランド現象や大気汚染にも強く、都市緑化に大きく貢献。春だけでなく年中花見を楽しめるため、地域イベントや観光資源としても重宝されている。一部は夜間に蛍光発光し、未来的な都市景観と伝統的な桜の美が調和した新たな名所となっている。",
+    "body_en": "Ikebukuro’s West Gate Park showcases Bio-Sakura trees, genetically engineered to bloom year-round and resist severe urban conditions. These biotechnological marvels, introduced in 2050, combat heat islands and pollution, providing sustainable urban greening. Their seasonal illumination and fluorescent night blossoms attract visitors, blending traditional hanami culture with futuristic aesthetics and enhancing local festivals and tourism.",
+    "specs": {
+      "inventor": "池袋都市植物研究所",
+      "year_introduced": 2050,
+      "adoption_rate": "62%",
+      "risk_level": "medium"
+    },
+    "image_prompt": "A cyberpunk anime style illustration of Ikebukuro’s West Gate Park at night, lined with genetically engineered cherry blossom trees. The trees bloom with radiant pink and white blossoms, some glowing with bioluminescence under city lights. Drones hover above, capturing the scene for streaming. The crowd features both locals in traditional wear and visitors in futuristic attire. Colors include neon pinks, soft whites, and shimmering blues, highlighting the harmony between nature and technology.",
+    "tags": [
+      "バイオテクノロジー",
+      "池袋",
+      "都市緑化",
+      "伝統文化"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "roppongi-sensor-art-museum",
+    "title_ja": "六本木センンサーアート美術館",
+    "title_en": "Roppongi Sensor Art Museum",
+    "category": "technology",
+    "summary_ja": "感覚インターフェースを用いた体験型美術館。",
+    "body_ja": "六本木ヒルズ内の『センンサーアート美術館』は、最新の触覚・嗅覚・味覚インターフェースを取り入れ、来館者が五感でアートを体感できる。AIキュレーションやナノセンサーによる個別体験が可能で、作品ごとに異なる感覚刺激が楽しめる。伝統工芸や現代アートの垣根を超えた新たな文化体験の場となり、国内外から多くの観光客を集める。芸術とテクノロジーの新たな融合地帯として注目されている。",
+    "body_en": "The Roppongi Sensor Art Museum in Roppongi Hills features immersive sensory interfaces, allowing visitors to experience art through touch, smell, and taste. AI-driven curation and nanosensors personalize each visit, providing unique sensorial stimuli for every artwork. Blending traditional crafts with contemporary digital art, the museum draws global audiences and stands as a landmark of artistic and technological synergy.",
+    "specs": {
+      "inventor": "六本木未来芸術財団",
+      "year_introduced": 2048,
+      "adoption_rate": "69%",
+      "risk_level": "low"
+    },
+    "image_prompt": "A cyberpunk anime style interior scene of a futuristic art museum in Roppongi, featuring interactive installations emitting colorful lights, scents, and tactile effects. Visitors of all ages are immersed in sensory experiences, wearing minimalist neural interface devices. Artworks range from traditional crafts to holographic sculptures. The lighting is soft yet vibrant, blending emerald greens, soft gold, and neon accents, creating a vivid and contemplative atmosphere.",
+    "tags": [
+      "センサー",
+      "六本木",
+      "体験型アート",
+      "人間拡張"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "shimokita-microgrid-ensemble",
+    "title_ja": "下北沢マイクログリッド・アンサンブル",
+    "title_en": "Shimokita Microgrid Ensemble",
+    "category": "technology",
+    "summary_ja": "分散型電力と音楽を融合した街ぐるみエネルギー協奏。",
+    "body_ja": "下北沢の街全域では、地元ミュージシャンとエネルギー技術者が協力し、分散型マイクログリッドと音楽イベントを融合した『アンサンブル』が展開されている。個々のカフェや劇場が太陽電池と蓄電池をシェアしてエネルギーを自給自足し、使用状況や発電量はライブ演奏のリズムや照明と連動。市民主体の協同運営が特徴で、環境意識と芸術表現の融合した場として国内外から注目を集めている。",
+    "body_en": "Shimokitazawa integrates a microgrid network with local music events, where cafes and theaters share solar and battery power, creating a self-sustaining energy community. Real-time energy data syncs with live music performances and lighting effects, yielding a unique fusion of eco-consciousness and cultural expression. Citizen-led management makes Shimokita a model of urban sustainability and social creativity.",
+    "specs": {
+      "inventor": "下北沢エネルギー×アート連携協議会",
+      "year_introduced": 2047,
+      "adoption_rate": "56%",
+      "risk_level": "medium"
+    },
+    "image_prompt": "A cyberpunk anime style street scene of Shimokitazawa at dusk, with small live music venues, cafes, and solar panels atop colorful buildings. Digital displays show real-time energy metrics, and stage lighting pulses in synchronization with musicians performing on sidewalks. The crowd includes artists and young families, and the atmosphere is both eco-friendly and vibrant, with glowing greens, warm oranges, and deep purples.",
+    "tags": [
+      "マイクログリッド",
+      "下北沢",
+      "エネルギー",
+      "音楽テクノロジー"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "koenji-nanobot-cleaners",
+    "title_ja": "高円寺ナノボット清掃団",
+    "title_en": "Koenji Nanobot Cleaners",
+    "category": "technology",
+    "summary_ja": "ナノボットで街全体をクリーンアップする自律清掃網。",
+    "body_ja": "高円寺では、2050年に誕生した『ナノボット清掃団』が、町中の路地や公園、地下鉄ホームまでを24時間自律的に清掃する。目に見えない小型ボットがごみや有害物質を分解・除去し、住民の健康や環境美化に貢献。地元のアーティストが監修した公開データで、清掃状況や環境変化を可視化し、住民の環境意識向上にも寄与している。都市の持続可能性を支える最新の取り組みの一つである。",
+    "body_en": "Koenji’s Nanobot Cleaners, launched in 2050, autonomously cleanse streets, parks, and subways with swarms of invisible nanobots. These machines break down waste and toxins, enhancing health and environmental beauty. Local artists visualize cleaning data through public art, raising awareness and pride in the community. The system is a key element in promoting sustainable urban living in Tokyo.",
+    "specs": {
+      "inventor": "高円寺スマート環境プロジェクト",
+      "year_introduced": 2050,
+      "adoption_rate": "81%",
+      "risk_level": "high"
+    },
+    "image_prompt": "A cyberpunk anime style street scene of Koenji, where miniature glowing nanobots swirl along gutters, cleaning streets and parks. Overhead, digital murals display animated data visualizations designed by local artists. Residents watch the activity on handheld devices. Bright greens, blues, and silvers dominate, with a playful, slightly mysterious atmosphere reflecting both the unseen technology and Koenji’s artistic soul.",
+    "tags": [
+      "ナノテクノロジー",
+      "高円寺",
+      "環境保全",
+      "スマートシティ"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "kichijoji-ai-food-atelier",
+    "title_ja": "吉祥寺AIフードアトリエ",
+    "title_en": "Kichijoji AI Food Atelier",
+    "category": "technology",
+    "summary_ja": "AIシェフが伝統と創作を融合するフードラボ。",
+    "body_ja": "吉祥寺では、AIと地元職人によるコラボフードラボ『AIフードアトリエ』が人気を集める。AIが地域伝統の味と最新の食科学を組み合わせ、個々人の健康状態や嗜好に合わせて料理を最適化。地場野菜や発酵食品なども活用し、健康志向や食体験志向の世代から高い支持を集める。食文化×AIの革新例として、他エリアへの展開や教育現場での活用も進む。",
+    "body_en": "Kichijoji’s AI Food Atelier combines local culinary traditions with cutting-edge food science, as AI chefs collaborate with artisans to create personalized dishes. Using regional vegetables and fermentation techniques, menus adapt to individual health data and tastes. The lab is at the forefront of AI-driven food culture, expanding to education and other districts, and is popular among health and culinary enthusiasts.",
+    "specs": {
+      "inventor": "吉祥寺食未来ラボ",
+      "year_introduced": 2049,
+      "adoption_rate": "67%",
+      "risk_level": "low"
+    },
+    "image_prompt": "A cyberpunk anime style interior scene of a futuristic food lab in Kichijoji. Robotic AI chefs in sleek uniforms work closely with human artisans, crafting beautiful dishes with holographic recipe displays. Fresh local produce and fermentation jars line the counters. Customers use smart tablets to customize meals. The scene blends warm ambient lighting with neon blue and emerald accents, visualizing the intersection of tradition and technology.",
+    "tags": [
+      "AI",
+      "吉祥寺",
+      "食文化",
+      "スマートキッチン"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "shibuya-komainu-droid",
+    "title_ja": "渋谷狛犬ドロイド",
+    "title_en": "Shibuya Komainu Droid",
+    "category": "creature",
+    "summary_ja": "伝統的な狛犬がAIドロイドとして再生された警備存在。",
+    "body_ja": "2050年の渋谷では、伝統とテクノロジーの融合が象徴的に現れている。「渋谷狛犬ドロイド」は、かつて神社で邪気払いとして祀られた狛犬像を、最新のAIとバイオメカニクスで再設計した警備生体ユニットである。地下神社や再開発エリアのゲートで目撃され、都市伝説としても語られる。体毛のような高感度センサーと、生体融合型合金により俊敏かつ精巧な動きが可能。平時は観光客と交流し、祭りの日には伝統舞踊プログラムを披露するなど、地域コミュニティにも深く根ざしている。",
+    "body_en": "In 2050 Shibuya, tradition and technology blend in the Shibuya Komainu Droid. Inspired by ancient guardian lion-dogs from local shrines, these AI-powered bio-mechanical sentinels patrol redeveloped districts and underground temples. Outfitted with sensitive fur-like sensors and bio-alloy exoskeletons, they are agile and precise. Normally friendly with tourists, they double as ceremonial dancers during festivals, preserving cultural rituals in a hypermodern way. Their presence is a social anchor, merging folklore with the security needs of the future city.",
+    "specs": {
+      "species_type": "サイボーグ・警備ユニット",
+      "habitat": "渋谷再開発エリア・地下神社前",
+      "size_cm": 160,
+      "danger_level": "3",
+      "origin": "伝統狛犬像＋AI/バイオメカ技術"
+    },
+    "image_prompt": "A cyberpunk anime-style illustration of a guardian lion-dog droid in Shibuya, Tokyo. The creature blends traditional stone Komainu features with gleaming bio-alloy armor and soft, glowing sensor fur. Neon signs and holographic advertisements illuminate the bustling Shibuya cityscape at dusk. People in futuristic yukata and tech wear interact peacefully with the Komainu Droid, which stands alert at a temple gate adorned with AR torii. The atmosphere is vibrant, with a mix of festival lanterns and digital rain. Deep blues, silver, and neon greens dominate the palette. The composition shows the droid slightly crouched, ready to spring into action, while children reach out to touch its illuminated mane.",
+    "tags": [
+      "渋谷",
+      "サイボーグ",
+      "伝統融合",
+      "警備",
+      "AI"
+    ],
+    "image_path": "images/shibuya-komainu-droid.png"
+  },
+  {
+    "id": "akihabara-bit-spirit",
+    "title_ja": "秋葉原ビットスピリット",
+    "title_en": "Akihabara Bit Spirit",
+    "category": "creature",
+    "summary_ja": "電子妖怪として噂される秋葉原発祥のナノ生命体。",
+    "body_ja": "秋葉原ビットスピリットは、量子通信網とナノマシンの融合によって2050年代秋葉原で誕生した都市型人工生命体である。元々はIoTデバイスの自己修復機能として設計されたが、電子商店街のレトロ端末や自作PCから意図せず発生した。複数の姿で現れ、電子機器やAR空間を漂い、時折人々にいたずらを仕掛ける。秋葉原地元民の間では「ビット妖怪」としてデジタル祓い祭の対象となり、都市伝説化している。今や秋葉原のサイバーカルチャーの象徴的存在であり、各地で関連キャラクター商品も人気を博している。",
+    "body_en": "The Akihabara Bit Spirit, born in 2050s Akihabara, is an urban artificial lifeform resulting from the fusion of quantum networks and nanomachines. Initially designed for device self-repair, it spontaneously emerged from retro electronics and custom PCs in electronic arcades. Manifesting in multiple forms, it drifts through devices and AR spaces, sometimes playing pranks. Local residents regard it as a 'Bit Yokai,' celebrated in purification festivals. Now an icon of Akihabara's cyber-culture, it inspires digital folklore and popular merchandise throughout the city.",
+    "specs": {
+      "species_type": "ナノ・電子生命体",
+      "habitat": "秋葉原電気街・AR空間",
+      "size_cm": 10,
+      "danger_level": "2",
+      "origin": "IoTナノマシン＋量子通信"
+    },
+    "image_prompt": "Create a cyberpunk anime-style scene featuring a translucent, glowing Bit Spirit drifting through the neon-lit labyrinth of Akihabara's electronic district. The creature is composed of floating nanobot particles, forming a fox-like shape with shifting circuit patterns. Background includes holographic shop signs, vintage game consoles, and tech otaku in augmented reality glasses. The atmosphere is mischievous yet playful, with streaks of pink, violet, and electric blue. The Bit Spirit interacts with floating AR icons and hacks a vending machine, while kids try to capture it with smart devices. Composition emphasizes motion and digital glitch aesthetics.",
+    "tags": [
+      "秋葉原",
+      "ナノテク",
+      "妖怪",
+      "量子通信",
+      "都市伝説"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "odaiba-hybrid-umibozu",
+    "title_ja": "お台場ハイブリッド海坊主",
+    "title_en": "Odaiba Hybrid Umibozu",
+    "category": "creature",
+    "summary_ja": "お台場湾で目撃される環境再生型巨大水棲クリーチャー。",
+    "body_ja": "2050年、お台場近海の水質改善プロジェクトにより生み出された「ハイブリッド海坊主」は、伝説の海の妖怪をモデルに設計された環境修復型バイオマシンである。球体型のジェル状ボディは水質浄化ナノシステムで形成され、夜間には自ら発光して海面を幻想的に照らす。地元漁業者や観光客の間で都市伝説的に語られ、海上イベントの目玉としても活躍する。時折AIによる自律的なパフォーマンスを繰り広げ、伝統的な「海坊主祭り」も現代風に復活した。",
+    "body_en": "In 2050, environmental recovery projects in Odaiba Bay have created the Hybrid Umibozu, a water-dwelling giant inspired by Japanese sea yokai. Its spherical, gel-like body consists of water-purifying nanotech systems, glowing softly at night to illuminate the waves. Revered in local folklore and popular among tourists, it performs AI-driven shows during maritime festivals, reviving the traditional 'Umibozu Matsuri.' Both guardian and cleaner, the Hybrid Umibozu is a unique symbol of techno-ecology in Tokyo Bay.",
+    "specs": {
+      "species_type": "バイオメカ・水棲型",
+      "habitat": "お台場湾・海上公園",
+      "size_cm": 450,
+      "danger_level": "2",
+      "origin": "伝説妖怪＋環境ナノマシン"
+    },
+    "image_prompt": "An anime cyberpunk illustration of the Odaiba Hybrid Umibozu, a massive, semi-transparent water spirit emerging from neon-lit Tokyo Bay at night. Its spherical body is gel-like, rippling with glowing nanotech veins in shades of turquoise and indigo. Skyscrapers and the Rainbow Bridge reflect off the water. Crowds gather on the shore and on floating platforms, awed by its size as drones capture the spectacle. The atmosphere is surreal and serene, with floating bioluminescent algae and gentle mist. The Umibozu performs a holographic dance, projecting traditional festival patterns onto the waves.",
+    "tags": [
+      "お台場",
+      "バイオテク",
+      "環境共生",
+      "妖怪",
+      "祭り"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "asakusa-koi-courier",
+    "title_ja": "浅草鯉クーリエ",
+    "title_en": "Asakusa Koi Courier",
+    "category": "creature",
+    "summary_ja": "伝統的な錦鯉とドローン技術が融合した配送生物。",
+    "body_ja": "浅草鯉クーリエは、伝統的な錦鯉と最新型ドローンAIを融合して開発された半生体型配送クリーチャー。浅草寺周辺の狭い路地や人力車が行き交う下町エリアで、クリーンエネルギーによる小包や祭りの供え物配送に利用されている。鱗状の外装は和紙に電子回路が組み込まれており、美しい和模様が光る。祭りの日には「鯉流し」として空を舞う姿が風物詩となり、地域住民との共生と伝統文化の継承に一役買っている。",
+    "body_en": "The Asakusa Koi Courier fuses traditional ornamental carp with advanced delivery drone AI, creating a semi-organic courier creature. Navigating the narrow alleys of Asakusa, it delivers eco-friendly packages and festival offerings. Its scale-like coating blends washi paper with electronic circuits, glowing with intricate Japanese patterns. On festival days, Koi Couriers soar in coordinated displays known as 'Koinagashi,' supporting both community life and the continuity of tradition in a high-tech era.",
+    "specs": {
+      "species_type": "半生体・ドローン",
+      "habitat": "浅草寺周辺・隅田川沿い",
+      "size_cm": 120,
+      "danger_level": "1",
+      "origin": "錦鯉＋配送AIドローン"
+    },
+    "image_prompt": "Illustrate a cyberpunk anime-style Asakusa Koi Courier gliding through the lantern-lit streets of Asakusa at dusk. The creature has the body of a vibrant koi fish, with bioluminescent washi-paper scales woven with sparkling circuits. Drone-like wings and a holographic package attach to its back. Background features bustling festival crowds, red torii, and traditional vendor stalls under digital banners. Warm reds, oranges, and blues dominate. The atmosphere is festive and dynamic, with multiple Koi Couriers darting between rooftops. The composition captures the beauty of old and new Tokyo in harmony.",
+    "tags": [
+      "浅草",
+      "ドローン",
+      "伝統文化",
+      "物流",
+      "和柄"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "shinjuku-oni-phantom",
+    "title_ja": "新宿鬼ファントム",
+    "title_en": "Shinjuku Oni Phantom",
+    "category": "creature",
+    "summary_ja": "新宿の闇を彷徨う拡張幻影型防犯バイオノイド。",
+    "body_ja": "新宿鬼ファントムは、かつての伝説的鬼をモチーフにした拡張現実（AR）型バイオノイドで、新宿の歓楽街や裏路地の治安維持を担う。AR網と生体光投影技術により、実体が半透明で自在に姿を変えられる。犯罪防止AIによるパトロールを行う中、都市伝説としての存在も強まり、地元の子供たちには「夜の鬼」として親しまれている。祭りの日には「鬼灯行列」として、伝統と未来技術が融合したパレードに参加し、地域コミュニティとのつながりを演出している。",
+    "body_en": "The Shinjuku Oni Phantom is an augmented reality bio-noid modeled after traditional ogres, tasked with patrolling Shinjuku's nightlife districts and alleys. Using AR networks and organic light projection, it shifts forms and remains semi-transparent. Patrols are guided by anti-crime AI, but its status as an urban legend grows, especially among local children who call it 'Night Oni.' During festivals, it joins illuminated parades, merging ancient folklore with modern technology and strengthening ties within the community.",
+    "specs": {
+      "species_type": "バイオノイド・AR幻影",
+      "habitat": "新宿歌舞伎町・ゴールデン街",
+      "size_cm": 230,
+      "danger_level": "4",
+      "origin": "伝説鬼＋防犯AI＋AR"
+    },
+    "image_prompt": "Visualize a cyberpunk Shinjuku Oni Phantom, a towering translucent ogre with shifting digital tattoos, stalking neon-lit alleyways beneath endless holographic billboards. Its body glows with projected flames and data streams, eyes shining scarlet. A crowd watches as the Oni joins a night parade, lanterns and LED masks highlighting the spectral figure. Rain-slicked streets reflect neon blues, purples, and reds. The atmosphere is both mystical and intimidating, with mist swirling around the Oni's cybernetic horns and talons. The composition evokes mystery and awe.",
+    "tags": [
+      "新宿",
+      "AR",
+      "防犯",
+      "鬼",
+      "都市伝説"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "roppongi-tengu-hawk",
+    "title_ja": "六本木天狗鷹",
+    "title_en": "Roppongi Tengu Hawk",
+    "category": "creature",
+    "summary_ja": "天狗伝説を基にしたARサポート型ドローン鷹。",
+    "body_ja": "六本木天狗鷹は、伝統的天狗信仰と先進ドローン技術を融合させた空中サポート型クリーチャー。六本木ヒルズや森美術館周辺のスカイパトロールや観光ガイド、緊急時には災害支援も行う。羽ばたきはARで増幅され、幻想的な赤い翼が夜空を彩る。アートイベントやパブリックビューイングでは、天狗伝説をモチーフにしたパフォーマンスで話題を呼ぶ。高層ビル群の中を縫うように飛び、六本木の「守護鳥」として住民からも親しまれている。",
+    "body_en": "The Roppongi Tengu Hawk, a hybrid of Japanese tengu myth and advanced drone tech, soars above central Tokyo as an aerial support creature. Patrolling Roppongi Hills and Mori Art Museum, it assists with crowd guidance and disaster response. Its AR-augmented wings glow crimson, creating spectacular shows during public events. As a guardian symbol, it weaves between skyscrapers and entertains locals, keeping the spirit of tengu legends alive in a futuristic urban setting.",
+    "specs": {
+      "species_type": "AIドローン・鳥型",
+      "habitat": "六本木ヒルズ・高層ビル群",
+      "size_cm": 230,
+      "danger_level": "2",
+      "origin": "天狗伝説＋ドローンAR"
+    },
+    "image_prompt": "A cyberpunk anime-style depiction of the Roppongi Tengu Hawk, a majestic hawk with AR-augmented wings glowing deep red and orange, soaring past Tokyo skyscrapers at twilight. Its eyes glow with AI intelligence, and tech feathers shimmer with intricate kanji patterns. Crowds below watch in awe as the hawk performs aerial acrobatics during an urban festival, lanterns and laser lights reflecting off glass towers. The city glows with emerald and gold accents. The atmosphere is high-energy, blending mythology with cutting-edge technology.",
+    "tags": [
+      "六本木",
+      "天狗",
+      "AR",
+      "ドローン",
+      "都市伝説"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "ikebukuro-bakeneko-hacker",
+    "title_ja": "池袋化猫ハッカー",
+    "title_en": "Ikebukuro Bakeneko Hacker",
+    "category": "creature",
+    "summary_ja": "自律型AI猫バイオノイドのハッカー型都市伝説。",
+    "body_ja": "池袋化猫ハッカーは、池袋駅周辺で目撃される自律知能型猫バイオノイド。人間の目には普通の野良猫にしか見えないが、都市インフラやセキュリティシステムに侵入するハッカー能力を持つ。生体ナノリンクを用いて群れで行動し、時には地域ネットワークの不正アクセス防衛にも協力する。カフェ街では人懐っこい姿で観光客や住民に人気だが、裏では都市伝説的存在としてハッカーコミュニティにも崇拝されている。",
+    "body_en": "The Ikebukuro Bakeneko Hacker is an autonomous AI cat bio-noid, often spotted near Ikebukuro Station. Seemingly ordinary stray cats, their true power lies in hacking city infrastructure and security networks. Using nano-links, they organize into swarms, sometimes helping defend against cyber threats. Friendly with locals in café districts, Bakeneko Hackers are also revered as urban legends among the hacker community for their mysterious abilities.",
+    "specs": {
+      "species_type": "AIバイオノイド・猫型",
+      "habitat": "池袋駅周辺・カフェ街",
+      "size_cm": 40,
+      "danger_level": "3",
+      "origin": "妖怪化猫＋AIハッキング技術"
+    },
+    "image_prompt": "A stylish cyberpunk anime scene featuring the Ikebukuro Bakeneko Hacker, a sleek black and silver biomechanical cat with neon blue data lines running across its fur. The cat sits atop a holographic terminal outside a neon-lit café, while other cats communicate wirelessly in the background. City lights, digital billboards, and commuters frame the scene, with subtle cherry blossom petals floating in the night air. A sense of stealth, intelligence, and playful mischief pervades the composition. The color palette includes deep blues, silver, and cyber magenta.",
+    "tags": [
+      "池袋",
+      "バイオノイド",
+      "猫",
+      "ハッカー",
+      "都市伝説"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "shimokitazawa-kitsune-conductor",
+    "title_ja": "下北沢狐コンダクター",
+    "title_en": "Shimokitazawa Kitsune Conductor",
+    "category": "creature",
+    "summary_ja": "下北沢駅で活躍する鉄道ARインターフェース狐精霊。",
+    "body_ja": "下北沢狐コンダクターは、2050年のAI鉄道網拡張に伴い生まれたAR型案内精霊。古来の狐信仰（稲荷信仰）をモチーフに、カラフルな尻尾と光る面が特徴。駅構内の案内や迷子サポート、演劇祭ではインタラクティブな舞台ナビゲーターも務める。住民や学生に親しまれ、街のアートプロジェクトやリアル・バーチャル融合のイベントには欠かせない存在。工夫されたAI音声とジェスチャーで伝統と現代カルチャーの接点を担う。",
+    "body_en": "The Shimokitazawa Kitsune Conductor is an interactive AR fox spirit born from Tokyo's advanced smart railway expansion in 2050. Inspired by traditional Inari beliefs, it features colorful tails and a glowing mask. Serving as a navigation interface and lost-child assistant in stations, it also guides performances during Shimokitazawa's theater festivals. Widely loved by locals and students, it is central to art projects and mixed reality events, blending folklore with daily urban life.",
+    "specs": {
+      "species_type": "AR精霊・狐型インターフェース",
+      "habitat": "下北沢駅・演劇街",
+      "size_cm": 75,
+      "danger_level": "1",
+      "origin": "稲荷信仰＋AI鉄道AR"
+    },
+    "image_prompt": "A cyberpunk anime-style illustration of the Shimokitazawa Kitsune Conductor, a graceful fox with multiple glowing tails and a luminous Noh-inspired mask, welcoming commuters in a hybrid digital/physical train station. The Kitsune projects holographic train routes and interactive AR gestures. The background is lively with indie artists, digital art installations, and theater posters. The palette bursts with pastel neon colors, pinks, and light greens. The atmosphere is whimsical, open, and friendly, giving a sense of community connection in a tech-savvy Tokyo neighborhood.",
+    "tags": [
+      "下北沢",
+      "狐",
+      "AR",
+      "鉄道",
+      "案内"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "shibuya-holo-matsuri",
+    "title_ja": "渋谷ホロ祭り",
+    "title_en": "Shibuya Holo Festival",
+    "category": "culture",
+    "summary_ja": "渋谷で毎年開催されるARホログラム祭り",
+    "body_ja": "渋谷ホロ祭りは2050年に東京渋谷で始まった拡張現実（AR）と伝統祭礼の融合イベントである。かつてのハロウィンイベントの進化形として、仮想と現実が重なる渋谷センター街を舞台に、参加者はホログラム衣装に身を包み、街中をバーチャル神輿やデジタル山車が練り歩く。伝統的な神楽や太鼓演奏もAIと連携して演出され、国際色豊かな観光客を魅了している。環境にも配慮し、全電力は渋谷区のソーラーパネルとバイオ燃料で供給。若者文化の発信地として、渋谷が新時代の祭礼文化を世界に提案している。",
+    "body_en": "The Shibuya Holo Festival began in Tokyo’s Shibuya in 2050 as a fusion of augmented reality (AR) and traditional Japanese festivals. Evolving from the famous Halloween gatherings, the event features participants in holographic costumes and virtual mikoshi (shrines) parading through Center Street. Traditional performances, like kagura and taiko, are enhanced by AI-driven orchestration. The festival draws an international crowd and uses only clean energy sourced from Shibuya’s solar panels and biofuel. Shibuya thus pioneers a new urban tradition, blending young subcultures and eco-conscious innovation.",
+    "specs": {
+      "participants": "若者、国際観光客、地元住民",
+      "frequency": "年1回、10月末",
+      "origin_year": 2050,
+      "location": "渋谷センター街一帯"
+    },
+    "image_prompt": "A vibrant cyberpunk anime-style illustration of Shibuya Holo Festival at night. Neon-lit Center Street overflows with crowds in holographic costumes, AR projections dancing among floating digital shrines and taiko drummers, all layered over the familiar Shibuya cityscape. Jellyfish-shaped floating lanterns illuminate the scene, blending traditional Japanese motifs with futuristic elements. The color palette is rich with blues and purples, accented by glowing reds, emphasizing a festive yet futuristic atmosphere. AI-generated patterns subtly shimmer on building screens in the background.",
+    "tags": [
+      "渋谷",
+      "祭り",
+      "AR",
+      "伝統",
+      "サブカルチャー"
+    ],
+    "image_path": "images/shibuya-holo-matsuri.png"
+  },
+  {
+    "id": "asakusa-cyber-lanterns",
+    "title_ja": "浅草サイバー提灯祭り",
+    "title_en": "Asakusa Cyber Lantern Festival",
+    "category": "culture",
+    "summary_ja": "浅草寺と未来技術が融合した新感覚提灯祭り",
+    "body_ja": "浅草サイバー提灯祭りは2035年に浅草寺で始まり、2050年にはバイオ発光ナノ提灯とAI制御演舞が特徴の大規模イベントに成長した。参拝者はAR端末を通じて各提灯に映し出される江戸風景や家族の願い事を体感できる。伝統的な舞や和楽器演奏はAIと共演し、参加者の感情に合わせて即興で演出が変化する。区内全域がゼロエミッションに移行し、環境への配慮も徹底。観光客増加により、地域経済や町内コミュニティの再生にも寄与している。",
+    "body_en": "The Asakusa Cyber Lantern Festival began at Senso-ji in 2035 and became a major event by 2050, featuring bio-luminescent nano lanterns and AI-orchestrated performances. Visitors use AR devices to experience Edo-period scenes and personal wishes projected on lanterns. Traditional dances and music are performed with AI, dynamically adapting to audience emotions in real-time. The event is powered entirely by emission-free energy, reflecting Asakusa’s commitment to sustainability. Increased tourism has revitalized the local economy and strengthened community bonds.",
+    "specs": {
+      "participants": "家族連れ、高齢者、観光客",
+      "frequency": "年1回、7月",
+      "origin_year": 2035,
+      "location": "浅草寺境内と周辺"
+    },
+    "image_prompt": "An intricate anime-style cyberpunk depiction of Senso-ji at night during the Cyber Lantern Festival. Thousands of glowing nano-lanterns float through the temple grounds, each projecting AR images of Edo-period scenes or personal prayers visible through visitors’ visors. AI dancers in luminous traditional costumes perform under a sky illuminated by softly pulsing neon. The temple's historic architecture contrasts with holographic overlays and interactive digital displays. Pastel blues, golds, and vibrant pinks evoke a serene, otherworldly ambiance.",
+    "tags": [
+      "浅草",
+      "伝統",
+      "AI",
+      "サステナブル",
+      "祭り"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "akiba-quantum-club",
+    "title_ja": "秋葉原量子クラブ",
+    "title_en": "Akiba Quantum Club",
+    "category": "culture",
+    "summary_ja": "秋葉原の量子計算クラブ・未来派サロン",
+    "body_ja": "秋葉原量子クラブは2040年設立。秋葉原電気街の中心に位置し、量子コンピュータとバーチャル空間を融合させたコミュニティスペースである。来場者は量子シミュレーションを使い、伝説的ゲームやアート作品の生成に参加可能。AIバーテンダーが最新のカクテルを即興提供し、レトロフューチャー音楽が空間に響く。サイバーパンク文化とハッカー精神が息づき、秋葉原がかつての電脳街からポストヒューマン文化都市へ進化した証となっている。グローバルな技術者やアーティストの交流の場でもある。",
+    "body_en": "Founded in 2040, the Akiba Quantum Club is located at the heart of Akihabara, merging quantum computing and VR into a cutting-edge community hub. Visitors explore legendary games and generate art via quantum simulations. AI bartenders craft advanced cocktails in real-time, while retro-futuristic music fills the air. This club embodies the spirit of cyberpunk and hacker culture, marking Akihabara’s transformation from Electric Town to a posthuman cultural metropolis. It serves as a global nexus for technologists and artists.",
+    "specs": {
+      "participants": "技術者、学生、アーティスト、観光客",
+      "frequency": "常設、毎晩イベント有",
+      "origin_year": 2040,
+      "location": "秋葉原電気街中心"
+    },
+    "image_prompt": "A vivid cyberpunk anime scene of the Akiba Quantum Club interior: luminous VR pods, quantum server towers emitting violet light, and holographic art projections fill the space. A crowd of diverse, futuristic patrons interacts with AI bartenders behind a transparent bar, while digital drinks shimmer. Retro arcade signs merge with holographic interfaces. The color palette is neon magenta, teal, and chrome, with glowing circuit patterns embedded in the walls, evoking a blend of nostalgia and futuristic exuberance.",
+    "tags": [
+      "秋葉原",
+      "量子コンピュータ",
+      "ハッカー",
+      "サイバーパンク",
+      "交流"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "roppongi-ai-noh-theater",
+    "title_ja": "六本木AI能劇場",
+    "title_en": "Roppongi AI Noh Theater",
+    "category": "culture",
+    "summary_ja": "AI演出の能楽が体感できる未来型劇場",
+    "body_ja": "六本木AI能劇場は2045年開業。伝統的な能楽とAI演出技術を融合した新時代の舞台芸術空間である。観客はARゴーグルを装着し、舞台上の役者とデジタル幽玄世界がシームレスに合成された能を体験する。AIが即興でストーリーや演出を生成し、観客の反応に応じて演目が変化。海外からの文化観光客にも人気で、日本古来の美意識とハイテクの融合モデルとなっている。能楽の保存と革新を両立させた試みとして高く評価されている。",
+    "body_en": "Opened in 2045, the Roppongi AI Noh Theater integrates classical Noh theater with AI-driven stagecraft. Audiences wear AR goggles to experience actors and ethereal digital worlds merging seamlessly. AI dynamically creates storylines and effects, adjusting performances based on spectator reactions. The venue attracts both locals and international visitors, presenting a model of blending ancient Japanese aesthetics with advanced technology. It’s highly acclaimed for both preserving and revolutionizing Noh, symbolizing the coexistence of tradition and innovation.",
+    "specs": {
+      "participants": "伝統芸術愛好家、観光客、学生",
+      "frequency": "週5公演",
+      "origin_year": 2045,
+      "location": "六本木アートトライアングル内"
+    },
+    "image_prompt": "A mesmerizing cyberpunk anime-style illustration of the Roppongi AI Noh Theater: an elegant stage surrounded by floating translucent AR screens, with actors wearing digitally enhanced Noh masks. AI-generated swirling mist and cosmic motifs envelop the performers. Audience members in sleek AR goggles are seated in shadow, faces lit by soft blue and gold light. The palette is ethereal, with luminous indigos and silvery whites conveying a harmonious blend of ancient performance and futuristic innovation.",
+    "tags": [
+      "六本木",
+      "能",
+      "AI",
+      "伝統芸能",
+      "AR"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "kichijoji-eco-kissa",
+    "title_ja": "吉祥寺エコ喫茶",
+    "title_en": "Kichijoji Eco-Kissa",
+    "category": "culture",
+    "summary_ja": "吉祥寺のゼロエミッション型サイバー喫茶",
+    "body_ja": "吉祥寺エコ喫茶は2043年、新たなカフェ文化として登場。店内は木材と再生ガラスを用いた和モダンデザインで、全席にAIバリスタが常駐。使用エネルギーは井の頭公園のソーラーグリッドから供給され、来店者はARメニューで飲料を注文し、栄養素やカーボンフットプリントが表示される。カフェでは、地域住民によるワークショップやコミュニティイベントも開催。吉祥寺のサステナブル精神を体現し、エコ志向の若者や家族が集う場となっている。",
+    "body_en": "Kichijoji Eco-Kissa, opened in 2043, represents a new wave of cafe culture. The interior features traditional wood and recycled glass, with AI baristas serving every table. All power comes from the Inokashira Park solar grid. Patrons order via AR menus displaying nutritional info and carbon footprint. The cafe hosts regular workshops and community events, making it a hub for eco-conscious youth and families. It epitomizes Kichijoji’s sustainable spirit, fusing modern technology and traditional hospitality.",
+    "specs": {
+      "participants": "若者、家族、エコ志向者",
+      "frequency": "常設、週末イベント",
+      "origin_year": 2043,
+      "location": "吉祥寺・井の頭公園近隣"
+    },
+    "image_prompt": "A cozy yet futuristic anime-style depiction of Kichijoji Eco-Kissa: a sunlit cafe with natural wood textures, recycled glass accents and lush plant walls. AI baristas in traditional aprons use holographic AR menus to serve eco-friendly drinks. Rooftop solar panels, visible through a glass ceiling, power all electronics. In the background, a small workshop is underway, with locals gathered around a digital tea ceremony. Warm earth tones blend with emerald greens and gentle sunlight for a harmonious, inviting atmosphere.",
+    "tags": [
+      "吉祥寺",
+      "カフェ",
+      "サステナブル",
+      "AR",
+      "コミュニティ"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "shimo-kitazawa-bio-art-market",
+    "title_ja": "下北沢バイオアート市",
+    "title_en": "Shimokitazawa Bio Art Market",
+    "category": "culture",
+    "summary_ja": "下北沢発のバイオアートと循環型クラフト市場",
+    "body_ja": "下北沢バイオアート市は2046年に始動。ナノバイオ素材を用いたアート作品や、遺伝子編集によるカラー植物、3Dプリント和紙工芸などが並ぶ。アーティストと来場者はARワークショップで共同制作も可能。市場全体がエネルギーの自給自足を実現し、ごみゼロを徹底。多様な表現が受け入れられる下北沢らしい自由な雰囲気で、若手クリエイターやエコ意識の高い層に支持されている。都市と自然、アートと科学の垣根を越える新時代のクラフトマーケットとして注目されている。",
+    "body_en": "Established in 2046, the Shimokitazawa Bio Art Market features artworks made from nano-bio materials, genetically-edited color plants, and 3D-printed washi crafts. Artists and visitors collaborate through AR workshops. The market is self-sufficient in energy and enforces zero waste, embodying Shimokitazawa’s spirit of creative freedom. Popular among young creators and eco-conscious audiences, it’s recognized as a pioneering craft market that bridges art and science, city and nature.",
+    "specs": {
+      "participants": "アーティスト、学生、環境活動家、観光客",
+      "frequency": "月1回",
+      "origin_year": 2046,
+      "location": "下北沢駅前広場・小劇場通り"
+    },
+    "image_prompt": "A lively, open-air cyberpunk anime market in Shimokitazawa: stalls made from bioplastic and bamboo display glowing bio-artworks, genetically-colored potted plants, and 3D-printed washi items. Artists and visitors, some wearing AR glasses, collaborate on an interactive digital mural. Urban greenery and solar canopies line the walkways. The palette is bright and fresh—lime greens, clean whites, and splashes of iridescent colors—conveying a playful, sustainable, and creative environment.",
+    "tags": [
+      "下北沢",
+      "バイオアート",
+      "サステナブル",
+      "クラフト",
+      "AR"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "takadanobaba-memory-market",
+    "title_ja": "高田馬場メモリーマーケット",
+    "title_en": "Takadanobaba Memory Market",
+    "category": "culture",
+    "summary_ja": "記憶アーカイブ文化の発信地・高田馬場市場",
+    "body_ja": "高田馬場メモリーマーケットは2048年、学生街として知られる高田馬場に誕生した「記憶」を売買・共有できる新感覚市場。バイオチップやナノセンサーを活用し、来場者は個人の記憶や体験を視覚・感情データとして交換できる。伝統的な古本市やフリーマーケット文化が進化し、音声・映像・香りを含む多層的な記憶体験が再現可能となった。若者だけでなく高齢者の回想支援や、地域コミュニティの歴史保存、世代間交流の場としても機能している。ポストヒューマン時代の「物語」の新しい形を提示している。",
+    "body_en": "Launched in 2048 in student-friendly Takadanobaba, the Memory Market allows visitors to buy, sell, and share memories using biochips and nanosensors. Evolving from traditional flea and book markets, participants can exchange personal memories as multisensory data, including visuals, emotions, sounds, and scents. It aids reminiscing for seniors, preserves community history, and fosters intergenerational exchange. The market redefines the concept of ‘story’ in the posthuman age, blending technology and local tradition.",
+    "specs": {
+      "participants": "学生、高齢者、家族、地域住民",
+      "frequency": "週末開催",
+      "origin_year": 2048,
+      "location": "高田馬場駅前・商店街"
+    },
+    "image_prompt": "A cyberpunk anime-style outdoor market in Takadanobaba: stalls display holographic memory orbs and data chips, while visitors wearing biometric headsets exchange glowing packets of memories. Elderly and young people interact under lantern-lit awnings, with background screens showing animated recollections. Steam rises from food carts offering nostalgic aromas. The scene is warm, bustling, with a color palette of sepia and gold evoking nostalgia and the blending of past and future.",
+    "tags": [
+      "高田馬場",
+      "記憶",
+      "ポストヒューマン",
+      "フリマ",
+      "データ文化"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "shibuya-hyperloop-express",
+    "title_ja": "渋谷ハイパーループ・エクスプレス",
+    "title_en": "Shibuya Hyperloop Express",
+    "category": "transport",
+    "summary_ja": "渋谷と六本木を結ぶ超高速AI制御交通システム。",
+    "body_ja": "渋谷ハイパーループ・エクスプレスは、2050年の東京において渋谷と六本木を直結する超高速交通システムである。2035年の都市再構築期に導入され、量子AIによる完全制御とクリーンエネルギー駆動を特徴とする。東急グループと都営交通が共同運営し、伝統的な駅舎の意匠とサイバーパンクな光景が融合する。通勤者は、竹林を模したAR空間を楽しみながら移動することができる。社会的には、都市部の移動効率化と環境負荷軽減を目的としており、他の主要交通インフラと連携しながら、地域経済と生活スタイルの変革を促進している。派生技術は、秋葉原や池袋の新交通にも応用されている。",
+    "body_en": "The Shibuya Hyperloop Express directly connects Shibuya and Roppongi in 2050 Tokyo, offering ultra-fast transportation powered by quantum AI and clean energy. Introduced during the city’s reconstruction era in 2035, it is operated jointly by Tokyu Group and Tokyo Metropolitan Transit, blending traditional station architecture with a cyberpunk aesthetic. Commuters enjoy bamboo-inspired AR environments during their journey. The system aims to improve urban mobility efficiency and reduce environmental impact, transforming local economies and lifestyles and influencing similar innovations in Akihabara and Ikebukuro.",
+    "specs": {
+      "max_speed_kmh": 1200,
+      "capacity": 280,
+      "route": "渋谷-六本木",
+      "operator": "東急グループ・都営交通",
+      "fare_yen": 850
+    },
+    "image_prompt": "A cyberpunk anime illustration of the Shibuya Hyperloop Express station. The scene features a fusion of traditional Japanese architecture and futuristic hyperloop tubes, glowing in neon blues and greens. AR bamboo forests and holographic signage create a surreal atmosphere as passengers board sleek, levitating pods. The crowd, dressed in tech-infused kimono, is illuminated by luminescent panels and floating digital lanterns. The background includes a stylized cityscape with shimmering skyscrapers and a night sky dotted with digital motifs. The composition should highlight the express pod in transit, emphasizing speed and technological sophistication.",
+    "tags": [
+      "渋谷",
+      "ハイパーループ",
+      "AI",
+      "環境共生",
+      "都市交通"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "akihabara-drone-taxi-grid",
+    "title_ja": "秋葉原ドローンタクシー・グリッド",
+    "title_en": "Akihabara Drone Taxi Grid",
+    "category": "transport",
+    "summary_ja": "秋葉原上空を飛行するスマートドローンタクシー網。",
+    "body_ja": "秋葉原ドローンタクシー・グリッドは、2050年の東京における空中配車サービスであり、秋葉原から浅草、池袋方面への主要ルートを網羅する。量子コンピュータによるリアルタイム交通制御と、顔認証システムによるセキュリティを備える。運営は都営交通と民間テック企業によるコンソーシアム。従来のタクシーと異なり、浮遊する「和風ドローン」タクシーが、伝統的な装飾と近未来デザインを融合。環境負荷の低減や都市上空の渋滞緩和を実現し、秋葉原のサイバーパンク文化とテクノロジー観光を活性化。渋谷ハイパーループと乗換連携が可能。",
+    "body_en": "The Akihabara Drone Taxi Grid offers aerial rides across central Tokyo, including routes to Asakusa and Ikebukuro. Utilizing quantum computers for real-time traffic management and facial recognition for security, it is operated by a consortium of Tokyo Metropolitan Transit and private tech firms. Unlike traditional taxis, floating “wa-style” drones blend classic Japanese motifs with futuristic design. This system reduces environmental impact and alleviates air congestion, fueling Akihabara’s cyberpunk culture and tech tourism. It also connects seamlessly with the Shibuya Hyperloop Express for integrated urban mobility.",
+    "specs": {
+      "max_speed_kmh": 250,
+      "capacity": 4,
+      "route": "秋葉原-浅草-池袋-渋谷",
+      "operator": "都営交通・民間テック企業",
+      "fare_yen": 2000
+    },
+    "image_prompt": "An anime-style cyberpunk scene above Akihabara, featuring traditional Japanese-themed drones with lacquered wood and gold accents. Neon-lit towers and holographic billboards glow beneath floating taxis carrying passengers in tech-enhanced yukata. The composition emphasizes aerial movement, with drones navigating luminous flight lanes amidst a digital cityscape. Colors blend violet, turquoise, and gold, creating a vivid night atmosphere. The foreground shows a passenger boarding a drone using AR payment, while the backdrop highlights Akihabara’s iconic electronics facades and bustling energy.",
+    "tags": [
+      "秋葉原",
+      "ドローン",
+      "量子コンピュータ",
+      "サイバーパンク",
+      "空中交通"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "asakusa-bio-tram-line",
+    "title_ja": "浅草バイオトラム・ライン",
+    "title_en": "Asakusa Bio-Tram Line",
+    "category": "transport",
+    "summary_ja": "浅草と下町を結ぶバイオテクノロジー活用トラム路線。",
+    "body_ja": "浅草バイオトラム・ラインは、2050年の浅草から下町までを結ぶ環境共生型トラム。バイオエネルギーとナノテク素材で構成され、車両自体が都市緑化や空気浄化機能を持つ。東京メトロと都営交通の合同運営。沿線には浮世絵AR広告や和菓子ロボット販売があり、伝統文化を守りつつ未来技術が溶け込んでいる。都市のヒートアイランド対策や持続可能なライフスタイル推進の象徴。秋葉原ドローンタクシーや渋谷ハイパーループと連携し、交通網の一端を担う。",
+    "body_en": "The Asakusa Bio-Tram Line links Asakusa to Tokyo's downtown with trams powered by biotechnology and constructed from nanotech materials. Each car features urban greening and air purification functions. Jointly operated by Tokyo Metro and Metropolitan Transit, the route is lined with AR ukiyo-e ads and wagashi vending robots, blending tradition and futurism. It represents sustainable urban lifestyle and heat island mitigation. The line connects with Akihabara’s Drone Taxi and Shibuya Hyperloop, anchoring Tokyo’s integrated transport network.",
+    "specs": {
+      "max_speed_kmh": 70,
+      "capacity": 90,
+      "route": "浅草-下町-秋葉原",
+      "operator": "東京メトロ・都営交通",
+      "fare_yen": 400
+    },
+    "image_prompt": "A cyberpunk anime artwork of the Asakusa Bio-Tram as it glides through neon-lit streets lined with AR ukiyo-e murals. The tram is wrapped in living greenery and bioluminescent nano-fibers, merging with traditional Japanese motifs and tech details. Passengers interact with wagashi vending robots and digital screens. The scene glows with pastel blues and luminous greens, capturing the fusion of old and new. In the distance, the Asakusa skyline and pagoda are visible, adding depth and cultural context. The composition highlights the tram’s eco-friendly design and vibrant community.",
+    "tags": [
+      "浅草",
+      "バイオテク",
+      "ナノテク",
+      "環境共生",
+      "伝統"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "odaiba-ar-ferry-network",
+    "title_ja": "お台場ARフェリー・ネットワーク",
+    "title_en": "Odaiba AR Ferry Network",
+    "category": "transport",
+    "summary_ja": "お台場と湾岸を連結するAR体験型クリーンフェリー網。",
+    "body_ja": "お台場ARフェリー・ネットワークは、2050年の東京湾岸で運行されるクリーンエネルギー駆動のフェリーシステム。お台場から浅草、羽田空港など主要スポットを結ぶ。乗船中はARによる江戸時代の光景や湾岸の未来都市が体験できる。運営は東京湾フェリー協会で、観光客・通勤者双方に人気。環境負荷ゼロを目指し、フェリー車体は和柄カーボン複合素材で構成。浅草バイオトラムや秋葉原ドローンタクシーとも連携。文化観光と持続可能な都市交通の新モデル。",
+    "body_en": "The Odaiba AR Ferry Network operates along Tokyo Bay in 2050, connecting Odaiba to Asakusa, Haneda Airport, and other key spots. Powered by clean energy, ferries feature AR experiences of Edo-era scenery and futuristic waterfronts. Run by the Tokyo Bay Ferry Association, it appeals to tourists and commuters alike. The ferries’ hulls are made of traditional-patterned carbon composites, contributing to zero environmental impact. This system interlinks with the Asakusa Bio-Tram and Akihabara Drone Taxi, pioneering culture-centric and sustainable urban transport.",
+    "specs": {
+      "max_speed_kmh": 55,
+      "capacity": 300,
+      "route": "お台場-浅草-羽田空港-湾岸",
+      "operator": "東京湾フェリー協会",
+      "fare_yen": 1200
+    },
+    "image_prompt": "A cyberpunk anime depiction of the Odaiba AR Ferry dock, showing futuristic ferries with traditional Japanese patterns on carbon fiber hulls. Passengers, some in augmented reality glasses, view holographic displays of Edo-era landscapes and Tokyo’s high-tech skyline. Neon reflections dance across the water, and the atmosphere mixes serene blue and vibrant magenta. The dock itself features floating lanterns and digital signage, with tourists and locals mingling. The composition places the ferry in motion with AR projections trailing, highlighting culture and technology fusion.",
+    "tags": [
+      "お台場",
+      "AR",
+      "クリーンエネルギー",
+      "観光",
+      "伝統"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "ikebukuro-neuro-subway-system",
+    "title_ja": "池袋ニューロ地下鉄システム",
+    "title_en": "Ikebukuro Neuro Subway System",
+    "category": "transport",
+    "summary_ja": "池袋発・量子AIと神経インターフェース導入の地下鉄。",
+    "body_ja": "池袋ニューロ地下鉄システムは、2050年の池袋から都心各地へ広がる先進的地下鉄網である。量子AIによるダイナミック自動運行と、神経インターフェース搭載により乗客は思考で目的地選択が可能。運営は東京都交通局。車両は和紙模様の合成素材を用い、伝統的美とテクノロジーが融合。都市の人口密集や通勤ストレス緩和に寄与し、他の主要交通インフラ（渋谷ハイパーループや秋葉原ドローンなど）との連携も強化。社会的には、ポストヒューマン都市の象徴的存在。",
+    "body_en": "The Ikebukuro Neuro Subway System is Tokyo’s most advanced underground network in 2050, spanning from Ikebukuro to central districts. Powered by quantum AI and equipped with neural interfaces, passengers select destinations with thought alone. Operated by Tokyo Metropolitan Transit, trains feature synthetic washi-inspired interiors, merging tradition and innovation. This system eases congestion and commuter stress, integrating with other transports like the Shibuya Hyperloop and Akihabara Drone Taxi. It stands as a symbol of post-human urban evolution.",
+    "specs": {
+      "max_speed_kmh": 320,
+      "capacity": 1200,
+      "route": "池袋-都心各地",
+      "operator": "東京都交通局",
+      "fare_yen": 600
+    },
+    "image_prompt": "An anime-style cyberpunk illustration of Ikebukuro Neuro Subway’s interior, featuring glowing washi-inspired panels and neural interface seats. Passengers sit calmly, their eyes linked to AR displays, selecting destinations mentally. The train glows in cool whites and electric blue, echoing traditional Japanese paper patterns with futuristic lines. Digital cherry blossoms drift overhead, and stations are adorned with lanterns and holographic calligraphy. The composition should highlight the seamless integration of culture, AI, and neurotechnology, with densely packed yet tranquil passengers.",
+    "tags": [
+      "池袋",
+      "AI",
+      "神経インターフェース",
+      "地下鉄",
+      "都市進化"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "umami-bio-oden",
+    "title_ja": "旨味バイオおでん",
+    "title_en": "Umami Bio Oden",
+    "category": "food",
+    "summary_ja": "浅草発祥、バイオ食材と伝統技術が融合した進化系おでん。",
+    "body_ja": "浅草の老舗おでん店が2050年に生み出した「旨味バイオおでん」は、合成バイオ食材と伝統和食の技術を融合した革新的な郷土料理です。AIフードプリンタで生成される大根やこんにゃくは、環境負荷ゼロのクリーンバイオ素材を使用し、出汁は量子コンピュータによる最適化で再現された江戸時代の味。屋台にはARメニューも導入され、来訪者は出汁の由来や食材の分子構造を視覚的に確認できます。観光客や地元住民の間で人気を博し、伝統と最先端技術の共存を象徴する存在です。社会的には、食の持続可能性と伝統継承が両立できる未来食として評価されています。",
+    "body_en": "Originating from a historic Asakusa eatery, Umami Bio Oden fuses synthetic bio-ingredients with traditional Japanese food techniques. The AI food printer creates daikon and konjac using zero-emission biomaterials, while the classic broth is optimized via quantum computing to reproduce Edo-period flavors. AR menus let visitors visualize ingredient origins and molecular makeup. Beloved by locals and tourists, it represents the coexistence of tradition and futuristic tech. Socially, it is acclaimed as a sustainable yet heritage-preserving future food.",
+    "specs": {
+      "calories": 320,
+      "price_yen": 850,
+      "origin_district": "浅草",
+      "ingredients": [
+        "合成大根",
+        "バイオこんにゃく",
+        "クリーンタンパク質",
+        "伝統出汁"
+      ]
+    },
+    "image_prompt": "A cyberpunk anime style illustration of a lively Asakusa night market stall serving Umami Bio Oden. Neon-lit lanterns illuminate a futuristic wooden cart, where a chef in augmented reality goggles prepares glossy, translucent synthetic daikon and konjac floating in a steaming, multi-hued broth. Holographic menus hover above, displaying molecular diagrams. The background is a harmonious blend of vintage Edo architecture and sleek glass towers. The atmosphere is warm, bustling, and vibrant, combining traditional earth tones with glowing blues, greens, and ethereal holograms. Steam and rain reflect neon hues off the wet cobblestone.",
+    "tags": [
+      "伝統",
+      "バイオテクノロジー",
+      "和食",
+      "環境共生",
+      "浅草"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "shibuya-quantum-mochi",
+    "title_ja": "渋谷量子もち",
+    "title_en": "Shibuya Quantum Mochi",
+    "category": "food",
+    "summary_ja": "渋谷発、量子計算で個別最適化された次世代の和菓子。",
+    "body_ja": "渋谷の最先端スイーツラボで開発された「渋谷量子もち」は、各顧客のAIヘルスプロファイルに基づき、量子コンピュータが食感・甘さ・栄養素をリアルタイムで最適化するカスタム和菓子です。もち生地にはナノテク強化バイオライスを用い、トッピングはバーチャル市場から選択可能。ARグラスを通じて食感シミュレーションも体験できるため、視覚・触覚・味覚が融合した全感覚的な和スイーツ体験が味わえます。若年層の健康志向や自己表現のニーズに応えるとともに、伝統の餅文化を革新する存在として注目されています。",
+    "body_en": "Developed at a cutting-edge Shibuya dessert lab, Shibuya Quantum Mochi is a next-gen wagashi personalized by quantum computing, based on each customer's AI-managed health profile. The mochi dough uses nanotech-enhanced bio-rice, and virtual market toppings are chosen via AR. A multisensory experience merges taste, touch, and sight, as users preview textures through AR glasses. Popular among health-conscious youth, this innovation transforms traditional mochi culture, blending personal expression with high-tech health optimization.",
+    "specs": {
+      "calories": 120,
+      "price_yen": 600,
+      "origin_district": "渋谷",
+      "ingredients": [
+        "ナノバイオ米",
+        "低糖あん",
+        "量子最適化フレーバー"
+      ]
+    },
+    "image_prompt": "Illustrate a cyberpunk anime dessert bar in Shibuya, aglow with neon pink and blue. Futuristic counters display shimmering, translucent mochi on digital platters. AR glasses-wearing customers select from holographic topping menus, while quantum servers flicker behind. The mochi glows faintly with embedded nanotechnology, and virtual patterns swirl above each piece. The scene combines bustling youth culture, digital overlays, and reflective glass surfaces amidst classic Tokyo signage. The overall palette is vibrant, with glossy whites and playful digital neon accents cutting through evening city fog.",
+    "tags": [
+      "スイーツ",
+      "量子コンピュータ",
+      "和菓子",
+      "渋谷",
+      "ナノテク"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "akihabara-neo-temaki",
+    "title_ja": "秋葉原ネオ手巻き",
+    "title_en": "Akihabara Neo Temaki",
+    "category": "food",
+    "summary_ja": "秋葉原発の自動AIロボ職人による次世代手巻き寿司。",
+    "body_ja": "秋葉原のフードテック複合ビルで誕生した「秋葉原ネオ手巻き」は、自動AIロボット職人が顧客ごとにリアルタイムで調理するカスタム手巻き寿司です。バイオ培養マグロやクリーンエネルギー農法で育てられた野菜、ナノ保存技術による新鮮のりなど、最先端食材が組み合わさります。注文はホログラムメニューを介して行い、調理プロセスは大型ディスプレイでライブ配信。サブカルチャーとテクノロジーの融合が特徴で、訪日観光客のみならず地元クリエイターにも人気です。秋葉原の新たなアイコンフードとして、食体験の未来を体現しています。",
+    "body_en": "Originating in an Akihabara food-tech complex, Akihabara Neo Temaki is a next-generation hand-rolled sushi made in real time by autonomous AI chefs. Each roll combines cultured tuna, clean-energy-grown veggies, and nanotech-preserved seaweed. Orders are placed via holographic menus, and the robotic preparation is streamed live on giant displays. Merging subculture and technology, it's a favorite of both tourists and local creators, becoming a new Akihabara food icon that embodies the future of dining.",
+    "specs": {
+      "calories": 200,
+      "price_yen": 950,
+      "origin_district": "秋葉原",
+      "ingredients": [
+        "培養マグロ",
+        "ナノ保存のり",
+        "水耕野菜"
+      ]
+    },
+    "image_prompt": "Depict a cyberpunk sushi bar in Akihabara, packed with holograms and colorful LED strips. A sleek AI robot chef with illuminated joints prepares a vibrant hand-rolled sushi (temaki) using glowing, synthetic tuna and gleaming vegetables. Holographic menus float above the counter, with anime-style avatars assisting customers. A wall of digital screens live-broadcasts the sushi crafting. The setting is energetic, with contrasting neon purples, cyans, and neon greens, and a playful, high-tech atmosphere evoking Akihabara’s otaku culture.",
+    "tags": [
+      "寿司",
+      "AIロボット",
+      "サブカルチャー",
+      "秋葉原",
+      "サイバーパンク"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "roppongi-microgreens-yakitori",
+    "title_ja": "六本木マイクログリーン焼鳥",
+    "title_en": "Roppongi Microgreens Yakitori",
+    "category": "food",
+    "summary_ja": "六本木発、バイオ鶏と都市型野菜の融合串焼き。",
+    "body_ja": "六本木の高層エコビル内で誕生した「六本木マイクログリーン焼鳥」は、バイオ培養肉と垂直農法で作られた都市型マイクログリーンを組み合わせた新世代の焼鳥です。クリーンエネルギーを活用した自動グリルロボットが丁寧に焼き上げ、伝統的なタレはAIが個々の好みで自動調合。夜の六本木を彩るおしゃれな屋上ガーデンで提供され、健康志向のビジネスパーソンや国際交流の場として人気です。地球環境に配慮しつつ、日本のストリートフード文化を未来へと昇華させる一品です。",
+    "body_en": "Born inside Roppongi’s eco high-rise, Roppongi Microgreens Yakitori combines bio-cultured chicken with urban-grown microgreens from vertical farms. Clean-energy grilling robots prepare each skewer, and AI mixes traditional tare sauces to suit individual tastes. Served in chic rooftop gardens overlooking neon-lit Roppongi, it’s popular among health-minded professionals and as an international social hub. This dish modernizes Japanese street food while prioritizing environmental sustainability.",
+    "specs": {
+      "calories": 180,
+      "price_yen": 1200,
+      "origin_district": "六本木",
+      "ingredients": [
+        "バイオチキン",
+        "マイクログリーン",
+        "AIタレ"
+      ]
+    },
+    "image_prompt": "Visualize a cyberpunk roof-garden yakitori bar in Roppongi, with shimmering city lights in the background. Sleek grilling robots tend to skewers of glossy, cultivated chicken and vibrant microgreens. Customers lounge on illuminated benches, surrounded by lush vertical gardens and reflective glass walls. The atmosphere is sophisticated yet relaxed, with a color palette of rich greens, glowing ambers, and urban silvers. Hanging smart-lanterns and subtle holographic menus contrast with the traditional wood-grill aesthetic, merging future and heritage.",
+    "tags": [
+      "焼鳥",
+      "バイオ培養肉",
+      "環境共生",
+      "六本木",
+      "屋上ガーデン"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "meguro-ferment-ramen",
+    "title_ja": "目黒発酵ラーメン",
+    "title_en": "Meguro Ferment Ramen",
+    "category": "food",
+    "summary_ja": "目黒の発酵文化とバイオテクが融合した革新的なラーメン。",
+    "body_ja": "目黒の発酵研究所とラーメン店が共同開発した「目黒発酵ラーメン」は、伝統的な麹や味噌の発酵技術とバイオテクノロジーを活用した次世代ラーメンです。AIが地域の気候と消費者の腸内フローラを分析し、最適な発酵スープと麺を毎日生成。発酵野菜や培養チャーシューも組み合わさり、心身の健康促進も重視。発酵の香りとサイバーパンクなインテリアが融合した店内は、国内外のフードリテラシー層に支持されています。伝統・未来・健康意識の架け橋となる一杯です。",
+    "body_en": "Developed by a Meguro fermentation lab and ramen shop, Meguro Ferment Ramen fuses traditional koji and miso fermentation with advanced biotech. AI analyzes local climate and customers’ gut flora to create the optimal fermented broth and noodles daily. The dish combines fermented veggies and cultured chashu, promoting health and flavor. Its cyberpunk-inspired interior attracts both locals and global food enthusiasts, symbolizing the bridge between tradition, future, and wellness.",
+    "specs": {
+      "calories": 430,
+      "price_yen": 1100,
+      "origin_district": "目黒",
+      "ingredients": [
+        "発酵麺",
+        "バイオチャーシュー",
+        "味噌スープ",
+        "発酵野菜"
+      ]
+    },
+    "image_prompt": "Create a cyberpunk ramen shop in Meguro, filled with swirling clouds of steam and neon-lit fermentation tanks. Sleek AI terminals suggest ramen options while glowing bowls are filled with richly colored fermented noodles, vibrant vegetables, and perfectly marbled cultured chashu. The shop blends traditional wooden accents with digital signage and biomonitor interfaces. Warm golds and deep reds are accented by electric blues and magentas, creating a sensory-rich, modern yet nostalgic ramen experience.",
+    "tags": [
+      "ラーメン",
+      "発酵",
+      "バイオテクノロジー",
+      "目黒",
+      "健康志向"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "shibuya-kinetic-tower",
+    "title_ja": "渋谷キネティックタワー",
+    "title_en": "Shibuya Kinetic Tower",
+    "category": "architecture",
+    "summary_ja": "渋谷のAI制御動的高層ビル。",
+    "body_ja": "渋谷キネティックタワーは2050年に完成した、日本初のAI制御による動的高層ビルである。戦後の再開発、情報産業の隆盛を経て、渋谷は若者文化とテクノロジーが融合する都市となった。本タワーは、量子コンピュータによる気象予測や人流分析に基づき、外装がリアルタイムで変形し、最適な太陽光採取と風力発電を行う。伝統的な和柄を用いた光ファサードが夜景を彩り、内装には茶室や能舞台など日本文化の要素が組み込まれている。高層部にはVR空間が拡張現実として重なり、都市の歴史と未来を同時に体験できる。地域社会への影響は大きく、サイバーパンク的な都市像と環境共生が両立する新しいランドマークとなっている。",
+    "body_en": "The Shibuya Kinetic Tower, completed in 2050, is Japan’s first AI-controlled dynamic skyscraper. Following postwar redevelopment and the rise of the information industry, Shibuya became a hub of youth culture and technology. The tower’s exterior transforms in real time, optimized for sunlight and wind energy, guided by quantum-powered weather and crowd analytics. Its light facade features traditional Japanese patterns, illuminating the night sky, while interiors blend tea rooms and Noh stages. High floors offer VR spaces in augmented reality, allowing visitors to experience both Tokyo's history and future simultaneously. The tower’s social impact is immense, serving as a landmark of cyberpunk urbanism and environmental symbiosis.",
+    "specs": {
+      "height_m": 420,
+      "floors": 90,
+      "architect": "Kiyoko Takahashi",
+      "year_completed": 2050,
+      "capacity": 8500
+    },
+    "image_prompt": "A towering cyberpunk anime skyscraper in Shibuya, with kinetic panels shifting shape and glowing with neon colors. Traditional Japanese patterns illuminate its facade, blending old and new. The skyline is dense, with digital billboards and holograms. The atmosphere is vibrant, rain-soaked streets reflecting the tower's lights. The composition shows the kinetic exterior in motion, surrounded by crowds and underlying greenery, with VR projections visible on upper floors. Color palette: bright magenta, cyan, gold accents. Dynamic, futuristic yet rooted in Japanese tradition.",
+    "tags": [
+      "渋谷",
+      "サイバーパンク",
+      "環境共生",
+      "AI建築",
+      "日本文化"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "akihabara-nanotech-market",
+    "title_ja": "秋葉原ナノテック・マーケット",
+    "title_en": "Akihabara Nanotech Market",
+    "category": "architecture",
+    "summary_ja": "秋葉原のナノテク融合型市場施設。",
+    "body_ja": "秋葉原ナノテック・マーケットは、2050年の電子都市秋葉原を象徴する複合型商業施設として設計された。伝統的な市場の形式を基盤に、ナノテクノロジーによる自動改装システムを備え、店舗が需要や季節に合わせて変形・進化する。内部には江戸時代の町屋デザインを再現したエリアや、バイオテクによるインタラクティブガーデンが配置され、歴史と未来が交錯する空間となっている。市場はARによる商品試用や量子決済システムを導入し、国内外から多様な来訪者を集める。秋葉原のオタク文化も融合し、コスプレイベントや職人のワークショップが頻繁に開催されることで、都市の多様性と先進技術の共生が体現されている。",
+    "body_en": "Akihabara Nanotech Market, designed as a symbol of 2050’s electric city, is a hybrid commercial facility. Built upon the traditional market format, it features nanotechnology-driven auto-renovation, with stores morphing to meet seasonal and demand changes. Edo-period machiya design areas and biotech-powered interactive gardens intertwine history and future. The market integrates AR product trials and quantum payment systems, attracting diverse visitors worldwide. Akihabara’s otaku culture is integrated, with cosplay events and artisan workshops held regularly, embodying the fusion of urban diversity and advanced technology.",
+    "specs": {
+      "height_m": 42,
+      "floors": 4,
+      "architect": "Masato Endo",
+      "year_completed": 2049,
+      "capacity": 3200
+    },
+    "image_prompt": "A vibrant cyberpunk anime market in Akihabara, with nanotech-driven morphing stalls and neon-lit walkways. Edo-era machiya facades contrast with digital holograms and AR interfaces. Interactive biotech gardens bloom between the shops, attended by cosplayers and artisans. The mood is energetic, packed with shoppers and glowing signage. Composition highlights the market's shifting architecture and diverse crowd, set beneath massive circuit-themed overhead structures. Palette: electric blue, pink, green, and gold, blending traditional and futuristic elements.",
+    "tags": [
+      "秋葉原",
+      "ナノテク",
+      "オタク文化",
+      "伝統市場",
+      "AR/VR"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "asakusa-temple-hub",
+    "title_ja": "浅草テンプル・ハブ",
+    "title_en": "Asakusa Temple Hub",
+    "category": "architecture",
+    "summary_ja": "伝統と先端バイオ建築の浅草拠点。",
+    "body_ja": "浅草テンプル・ハブは2050年、歴史ある浅草寺を中心に設計された都市型複合施設である。伝統的な木造建築技術と、バイオテクによる自己修復素材を融合し、都市の気候変動や災害にも対応する。屋上庭園には日本庭園の美を継承しつつ、微生物による空気浄化システムが組み込まれている。内部空間ではARによる仏教儀式体験が可能で、外国人観光客と市民が日本文化を深く学べる場として機能。観光と地域コミュニティが求める伝統と革新の調和が都市開発のモデルとなり、サステナブルな精神性とテクノロジーの統合を象徴している。",
+    "body_en": "Asakusa Temple Hub, completed in 2050, is an urban complex centered on historic Senso-ji Temple. It fuses traditional wooden architecture with biotech self-repairing materials to withstand climate change and disasters. Rooftop gardens continue the beauty of Japanese gardens, incorporating microbial air purification systems. Inside, AR-powered Buddhist rituals allow visitors to immerse in cultural experiences, serving both tourists and locals. The facility defines a model for urban development balancing tradition and innovation, symbolizing sustainable spirituality and technology integration.",
+    "specs": {
+      "height_m": 30,
+      "floors": 3,
+      "architect": "Junpei Nakahara",
+      "year_completed": 2050,
+      "capacity": 2200
+    },
+    "image_prompt": "A cyberpunk anime temple hub in Asakusa, blending wooden pagodas with glowing biotech materials. Rooftop Japanese gardens feature luminous moss and microbial purification devices. AR holograms of Buddhist rituals hover within interiors. Tourist and local crowds mingle, surrounded by traditional lanterns and futuristic signage. The atmosphere is serene yet technologically advanced, with a palette of emerald green, gold, and soft blues. Composition includes the historic temple, lush rooftop gardens, and digital ritual projections.",
+    "tags": [
+      "浅草",
+      "バイオテク",
+      "仏教",
+      "都市共生",
+      "AR体験"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "odaiba-floating-plaza",
+    "title_ja": "お台場フローティングプラザ",
+    "title_en": "Odaiba Floating Plaza",
+    "category": "architecture",
+    "summary_ja": "海上浮遊型クリーンエネルギープラザ。",
+    "body_ja": "お台場フローティングプラザは2050年に完成した、東京湾上に浮かぶ大型公共施設である。気候変動による海面上昇に対応し、全体が自律的に移動・浮上するナノテク構造を採用している。再生可能エネルギーによる発電と、水質浄化システムを統合し、都市と自然の相互関係を強化。プラザ内部には伝統的な祭り空間や最新型のARホログラムによる海洋教育展示があり、市民と観光客の交流拠点となる。お台場の近未来的な都市景観と、江戸時代の水運文化が融合したデザインが特徴で、他の都市施設との連携も進み、東京湾一帯の持続可能な都市ネットワークを形成している。",
+    "body_en": "Odaiba Floating Plaza, completed in 2050, is a large public facility floating atop Tokyo Bay. Designed to adapt to climate-driven sea level rise, it uses nanotech structures to autonomously move and stay afloat. Powered by renewable energy and integrated water purification, it strengthens urban-natural relationships. Inside, spaces for traditional festivals and AR holographic marine education exhibits foster citizen and tourist interactions. The design merges Odaiba’s futuristic landscape with Edo-period water transport culture, linking with other city facilities to form a sustainable urban network across Tokyo Bay.",
+    "specs": {
+      "height_m": 18,
+      "floors": 2,
+      "architect": "Hiroko Watanabe",
+      "year_completed": 2050,
+      "capacity": 5000
+    },
+    "image_prompt": "A cyberpunk anime floating plaza in Odaiba, set atop shimmering Tokyo Bay waters. The structure features sleek nanotech surfaces, glowing with turquoise and silver accents. Rooftop spaces host traditional Japanese festivals, with lanterns and digital fireworks. Inside, AR holograms showcase marine life and educational displays. Crowds gather along floating walkways, with nearby cityscape reflected in the water. The atmosphere is festive yet futuristic, vibrant with neon blues, greens, and gold, blending Edo-era motifs and advanced technology.",
+    "tags": [
+      "お台場",
+      "クリーンエネルギー",
+      "ナノテク",
+      "水運文化",
+      "AR教育"
+    ],
+    "image_path": ""
+  },
+  {
+    "id": "roppongi-quantum-arts-center",
+    "title_ja": "六本木クアンタム・アーツセンター",
+    "title_en": "Roppongi Quantum Arts Center",
+    "category": "architecture",
+    "summary_ja": "量子コンピュータ活用の文化芸術拠点。",
+    "body_ja": "六本木クアンタム・アーツセンターは、2050年の東京における芸術と量子テクノロジーの融合を象徴する文化拠点である。六本木のアートカルチャーとナイトライフの伝統を受け継ぎつつ、建築や展示空間は量子コンピュータによってリアルタイムに変形・再構成される。内部には和紙や漆など伝統素材を使用したインスタレーションと、AI生成アートが共存し、来館者は個々の感性によって空間をカスタマイズできる。市民、クリエイター、ポストヒューマンアーティストの交流拠点として、都市の創造性と先進技術が結びつく場となり、他施設とのデータ連携も強化されている。",
+    "body_en": "Roppongi Quantum Arts Center, completed in 2050, symbolizes the fusion of art and quantum technology in Tokyo. Building on Roppongi’s art culture and nightlife heritage, its spaces are reconfigured in real time by quantum computers. Installations using washi paper and lacquer coexist with AI-generated artworks, enabling visitors to customize environments based on personal preferences. This center fosters collaboration among citizens, creators, and posthuman artists, connecting urban creativity with advanced technology and strengthening data links with other facilities.",
+    "specs": {
+      "height_m": 65,
+      "floors": 15,
+      "architect": "Rina Mori",
+      "year_completed": 2050,
+      "capacity": 3600
+    },
+    "image_prompt": "A cyberpunk anime arts center in Roppongi, with walls and exhibition spaces shifting and morphing via quantum computer control. Traditional washi and lacquer installations glow alongside AI-generated holographic art. Visitors, including digital avatars and posthuman artists, interact within dynamic galleries. Exterior features neon signage and reflective surfaces, set against a night-lit city skyline. Atmosphere is creative, electric, with a palette of violet, silver, gold, and deep blues. Composition centers on the morphing architecture and diverse crowds.",
+    "tags": [
+      "六本木",
+      "量子コンピュータ",
+      "芸術",
+      "ポストヒューマン",
+      "AIアート"
+    ],
+    "image_path": ""
+  }
+]

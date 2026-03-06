@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MIRAI TOKYO 2050 - Encyclopedia</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Noto+Sans+JP:wght@300;400;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🗼</text></svg>">
+</head>
+<body>
+  <!-- Animated background -->
+  <canvas id="bg-canvas"></canvas>
+
+  <!-- Scanline overlay -->
+  <div class="scanlines"></div>
+
+  <!-- Header -->
+  <header class="hero">
+    <div class="hero-content">
+      <div class="hero-glitch" data-text="MIRAI TOKYO 2050">MIRAI TOKYO 2050</div>
+      <p class="hero-sub">未来東京百科事典 <span class="blink">_</span></p>
+      <div class="hero-line"></div>
+      <p class="hero-desc">Welcome to the encyclopedia of tomorrow's Tokyo. Explore the districts, technology, creatures, culture, transport, food, and architecture of the city that never stops evolving.</p>
+    </div>
+    <div class="scroll-indicator">
+      <span>SCROLL</span>
+      <div class="scroll-arrow"></div>
+    </div>
+  </header>
+
+  <!-- Category Filter -->
+  <nav class="filter-bar" id="filter-bar">
+    <div class="filter-container">
+      <button class="filter-btn active" data-category="all">
+        <span class="filter-icon">◆</span> ALL
+      </button>
+      <button class="filter-btn" data-category="district">
+        <span class="filter-icon">▣</span> DISTRICT
+      </button>
+      <button class="filter-btn" data-category="technology">
+        <span class="filter-icon">⚡</span> TECHNOLOGY
+      </button>
+      <button class="filter-btn" data-category="creature">
+        <span class="filter-icon">◈</span> CREATURE
+      </button>
+      <button class="filter-btn" data-category="culture">
+        <span class="filter-icon">✦</span> CULTURE
+      </button>
+      <button class="filter-btn" data-category="transport">
+        <span class="filter-icon">▷</span> TRANSPORT
+      </button>
+      <button class="filter-btn" data-category="food">
+        <span class="filter-icon">◉</span> FOOD
+      </button>
+      <button class="filter-btn" data-category="architecture">
+        <span class="filter-icon">△</span> ARCHITECTURE
+      </button>
+    </div>
+  </nav>
+
+  <!-- Entry count -->
+  <div class="entry-count" id="entry-count"></div>
+
+  <!-- Cards Grid -->
+  <main class="cards-grid" id="cards-grid">
+    <!-- Cards will be injected by JS -->
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-content">
+      <div class="footer-logo">MIRAI TOKYO 2050</div>
+      <div class="footer-text">未来東京百科事典 // Encyclopedia of Tomorrow</div>
+      <div class="footer-line"></div>
+      <div class="footer-copy">SYSTEM VERSION 2050.3.6 // ALL DATA CLASSIFIED LEVEL-4</div>
+    </div>
+  </footer>
+
+  <!-- Modal -->
+  <div class="modal-overlay" id="modal-overlay">
+    <div class="modal" id="modal">
+      <button class="modal-close" id="modal-close">✕</button>
+      <div class="modal-content" id="modal-content">
+        <!-- Modal content injected by JS -->
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
