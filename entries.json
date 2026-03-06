@@ -283,7 +283,7 @@
       "浅草",
       "観光テクノロジー"
     ],
-    "image_path": ""
+    "image_path": "images/asakusa-ar-lantern.png"
   },
   {
     "id": "akihabara-drone-market",
@@ -306,7 +306,7 @@
       "AIマーケット",
       "スマート流通"
     ],
-    "image_path": ""
+    "image_path": "images/akihabara-drone-market.png"
   },
   {
     "id": "odaiba-tide-solar-farm",
@@ -329,7 +329,7 @@
       "再生可能エネルギー",
       "都市農園"
     ],
-    "image_path": ""
+    "image_path": "images/odaiba-tide-solar-farm.png"
   },
   {
     "id": "shinjuku-holo-yokocho",
@@ -352,7 +352,7 @@
       "飲食テクノロジー",
       "都市文化"
     ],
-    "image_path": ""
+    "image_path": "images/shinjuku-holo-yokocho.png"
   },
   {
     "id": "ikebukuro-bio-sakura",
@@ -375,7 +375,7 @@
       "都市緑化",
       "伝統文化"
     ],
-    "image_path": ""
+    "image_path": "images/ikebukuro-bio-sakura.png"
   },
   {
     "id": "roppongi-sensor-art-museum",
@@ -398,7 +398,7 @@
       "体験型アート",
       "人間拡張"
     ],
-    "image_path": ""
+    "image_path": "images/roppongi-sensor-art-museum.png"
   },
   {
     "id": "shimokita-microgrid-ensemble",
@@ -421,7 +421,7 @@
       "エネルギー",
       "音楽テクノロジー"
     ],
-    "image_path": ""
+    "image_path": "images/shimokita-microgrid-ensemble.png"
   },
   {
     "id": "koenji-nanobot-cleaners",
@@ -444,7 +444,7 @@
       "環境保全",
       "スマートシティ"
     ],
-    "image_path": ""
+    "image_path": "images/koenji-nanobot-cleaners.png"
   },
   {
     "id": "kichijoji-ai-food-atelier",
@@ -467,7 +467,7 @@
       "食文化",
       "スマートキッチン"
     ],
-    "image_path": ""
+    "image_path": "images/kichijoji-ai-food-atelier.png"
   },
   {
     "id": "shibuya-komainu-droid",
@@ -517,7 +517,7 @@
       "量子通信",
       "都市伝説"
     ],
-    "image_path": ""
+    "image_path": "images/akihabara-bit-spirit.png"
   },
   {
     "id": "odaiba-hybrid-umibozu",
