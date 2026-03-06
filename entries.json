@@ -189,7 +189,7 @@
       "ARアート",
       "サステナブル"
     ],
-    "image_path": ""
+    "image_path": "images/shimokitazawa-micro-grid.png"
   },
   {
     "id": "kichijoji-spirit-haven",
@@ -213,7 +213,7 @@
       "AR音楽",
       "AIヘルスケア"
     ],
-    "image_path": ""
+    "image_path": "images/kichijoji-spirit-haven.png"
   },
   {
     "id": "koenji-anarch-commons",
@@ -860,7 +860,7 @@
       "環境共生",
       "都市交通"
     ],
-    "image_path": ""
+    "image_path": "images/shibuya-hyperloop-express.png"
   },
   {
     "id": "akihabara-drone-taxi-grid",
